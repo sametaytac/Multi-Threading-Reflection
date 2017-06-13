@@ -1,0 +1,1632 @@
+Number of Instructors = 31
+Number of Students    = 55
+Number of Courses     = 54
+Number of Computers   = 20
+
+Instructors :
+
+  Selim Temizer
+  Emre Akbas
+  Ahmet Oguz Akyuz
+  Ferda Nur Alpaslan
+  Ismail Sengor Altingovde
+  Volkan Atalay
+  Aysenur Birturk
+  Tolga Can
+  Ahmet Cosar
+  Ruken Cakici
+  Nihan Kesim Cicekli
+  Ali Hikmet Dogru
+  Seyda Ertekin
+  Veysi Isler
+  Sinan Kalkan
+  Pinar Karagoz
+  Murat Manguoglu
+  Halit Oguztuzun
+  Ertan Onur
+  Atilla Ozgit
+  Faruk Polat
+  Yusuf Sahillioglu
+  Uluc Saranli
+  Erol Sahin
+  Onur Tolga Sehitoglu
+  Cevat Sener
+  Sibel Tari
+  Ismail Hakki Toroslu
+  Gokturk Ucoluk
+  Fatos Yarman-Vural
+  Adnan Yazici
+
+Students :
+
+  Abdulkadir Dalga (MS, Selim Temizer, 0)
+  Abdullah Goktug Mert (PHD, Emre Akbas, 0)
+  Ali Abbasi (PHD, Ahmet Oguz Akyuz, 0)
+  Ali Haydar Karapinar (BS, Ferda Nur Alpaslan, 0)
+  Arda Guney (BS, Ismail Sengor Altingovde, 0)
+  Artur Mantaluta (BS, Volkan Atalay, 0)
+  Azat Dzhanybekov (MS, Aysenur Birturk, 0)
+  Bahadir Berkay Unsal (BS, Tolga Can, 0)
+  Baler Ilhan (MS, Ahmet Cosar, 0)
+  Baris Ozcelik (MS, Ruken Cakici, 0)
+  Bunyamin Sarigul (BS, Nihan Kesim Cicekli, 0)
+  Burak Balci (MS, Ali Hikmet Dogru, 0)
+  Cemil Kocaman (MS, Seyda Ertekin, 0)
+  Cemre Goc (BS, Veysi Isler, 0)
+  Dicle Ayzit (MS, Sinan Kalkan, 0)
+  Doguscan Namal (PHD, Pinar Karagoz, 0)
+  Efe Erdil (PHD, Murat Manguoglu, 0)
+  Ekrem Demirhan (PHD, Halit Oguztuzun, 0)
+  Emel Varol (MS, Ertan Onur, 0)
+  Emre Akin (PHD, Atilla Ozgit, 0)
+  Emre Can Kucukoglu (BS, Faruk Polat, 0)
+  Emre Yigit Alparslan (MS, Yusuf Sahillioglu, 0)
+  Fatih Burak Belce (PHD, Uluc Saranli, 0)
+  Ismail Sarp Dikkaya (MS, Erol Sahin, 0)
+  Kaan Toker (BS, Onur Tolga Sehitoglu, 0)
+  Kadir Can Buldurucu (PHD, Cevat Sener, 0)
+  Mehmet Emin Kucuk (MS, Sibel Tari, 0)
+  Mehmet Mustafa Nacar (MS, Ismail Hakki Toroslu, 0)
+  Melih Burak Mert (PHD, Gokturk Ucoluk, 0)
+  Mertcan Boz (PHD, Fatos Yarman-Vural, 0)
+  Mesut Yilmaz (BS, Adnan Yazici, 0)
+  Metin Aksit (PHD, Selim Temizer, 0)
+  Musa Karabulut (BS, Emre Akbas, 0)
+  Mustafa Bugra Tamer (PHD, Ahmet Oguz Akyuz, 0)
+  Mustafa Senol Cosar (BS, Ferda Nur Alpaslan, 0)
+  Nazli Mehrazar (MS, Ismail Sengor Altingovde, 0)
+  Oguzhan Demir (PHD, Volkan Atalay, 0)
+  Oyku Ozlem Cakal (MS, Aysenur Birturk, 0)
+  Ozgur Baskin (BS, Tolga Can, 0)
+  Sabri Safa Ozturk (BS, Ahmet Cosar, 0)
+  Samet Aytac (MS, Ruken Cakici, 0)
+  Saygin Sarioglu (MS, Nihan Kesim Cicekli, 0)
+  Sema Kose (BS, Ali Hikmet Dogru, 0)
+  Sercan Hocaoglu (BS, Seyda Ertekin, 0)
+  Serhan Yilmaz (BS, Veysi Isler, 0)
+  Sevim Begum Sozer (MS, Sinan Kalkan, 0)
+  Suleyman Arikan (PHD, Pinar Karagoz, 0)
+  Turan Soyuer (BS, Murat Manguoglu, 0)
+  Ugur Yanikoglu (PHD, Halit Oguztuzun, 0)
+  Utku Caglayan (MS, Ertan Onur, 0)
+  Yagiz Arkayin (PHD, Atilla Ozgit, 0)
+  Yunus Olgun (BS, Faruk Polat, 0)
+  Zeliha Yilmaz (MS, Yusuf Sahillioglu, 0)
+  Zeynep Sengil (MS, Uluc Saranli, 0)
+  Zeynep Havva Dinc (MS, Erol Sahin, 0)
+
+Courses :
+
+  CENG 100 - Computer Engineering Orientation (MS)
+  CENG 111 - Introduction to Computer Engineering Concepts (PHD)
+  CENG 213 - Data Structures (MS)
+  CENG 223 - Discrete Computational Structures (PHD)
+  CENG 300 - Summer Practice - I (MS)
+  CENG 315 - Algorithms (BS)
+  CENG 331 - Computer Organization (MS)
+  CENG 351 - Data Management And File Structures (BS)
+  CENG 400 - Summer Practice - II (PHD)
+  CENG 435 - Data Communications and Networking (BS)
+  CENG 477 - Introduction to Computer Graphics (MS)
+  CENG 491 - Computer Engineering Design I (PHD)
+  CENG 352 - Database Management Systems (BS)
+  CENG 382 - Analysis of Dynamic Systems with Feedback (MS)
+  CENG 424 - Logic for Computer Sciences (BS)
+  CENG 443 - Introduction to Object Oriented Programming Languages and Systems (BS)
+  CENG 451 - Information Systems Analysis and Design (BS)
+  CENG 462 - Introduction to Artificial Intelligence (BS)
+  CENG 465 - Introduction to Bioinformatics (MS)
+  CENG 466 - Fundamental Image Processing Techniques (MS)
+  CENG 498 - Software Development with Scripting Languges (PHD)
+  CENG 499 - Special Topics: Introduction to Machine Learning (MS)
+  CENG 200 - Introduction to Computers And Fortran Programming (MS)
+  CENG 301 - Algorithms And Data Structures (BS)
+  CENG 302 - Introduction to Database Management Systems (BS)
+  CENG 305 - Object-Oriented Programming with Java (BS)
+  CENG 530 - Computer Networks and Communications (BS)
+  CENG 532 - Distributed Computing Systems (MS)
+  CENG 536 - Advanced Unix (PHD)
+  CENG 540 - Programming Languages (BS)
+  CENG 551 - System Development with Abstract Design (BS)
+  CENG 561 - Artificial Intelligence (MS)
+  CENG 562 - Machine Learning (MS)
+  CENG 564 - Pattern Recognition (BS)
+  CENG 565 - Theory of Computation (MS)
+  CENG 566 - Image Processing (BS)
+  CENG 567 - Design and Analysis of Algorithms (MS)
+  CENG 568 - Knowledge Engineering (MS)
+  CENG 574 - Statistical Data Analysis (MS)
+  CENG 583 - Computer Vision (MS)
+  CENG 591 - Graduate Seminar (PHD)
+  CENG 707 - Data Structures and Algorithms (MS)
+  CENG 709 - Computer Architecture and Operating Systems (BS)
+  CENG 789 - Digital Geometry Processing - Second Program (PHD)
+  CENG 542 - Human Computer Interaction (MS)
+  CENG 547 - Formal Specification Techniques (BS)
+  CENG 550 - Software Engineering (MS)
+  CENG 599 - Term Project (MS)
+  CENG 701 - Virtual Reality (PHD)
+  CENG 780 - Sparse Matrix Computations (BS)
+  CENG 784 - Statistical Methods in Natural Language Processing (MS)
+  CENG 785 - Algorithmic Trading and Quantitative Strategies (BS)
+  CENG 786 - Robot Motion Planning and Control (MS)
+  CENG 789 - Digital Geometry Processing (PHD)
+
+Computers :
+
+  Inek-01
+  Inek-02
+  Inek-03
+  Inek-04
+  Inek-05
+  Inek-06
+  Inek-07
+  Inek-08
+  Inek-09
+  Inek-10
+  Inek-11
+  Inek-12
+  Inek-13
+  Inek-14
+  Inek-15
+  Inek-16
+  Inek-17
+  Inek-18
+  Inek-19
+  Inek-20
+
+Ali Abbasi               : I am in the laboratory looking for a free computer
+Yunus Olgun              : I am in the laboratory looking for a free computer
+Ali Abbasi               : I got computer Inek-01
+Ali Abbasi               : I am registering for 3 courses
+Ali Abbasi               : I took CENG 100 - Computer Engineering Orientation (MS)
+Zeynep Havva Dinc        : I am in the laboratory looking for a free computer
+Yunus Olgun              : I got computer Inek-02
+Yunus Olgun              : I am registering for 3 courses
+Yunus Olgun              : I took CENG 567 - Design and Analysis of Algorithms (MS)
+Zeynep Sengil            : I am in the laboratory looking for a free computer
+Zeynep Havva Dinc        : I got computer Inek-03
+Zeynep Havva Dinc        : I am registering for 3 courses
+Ali Abbasi               : I took CENG 542 - Human Computer Interaction (MS)
+Yunus Olgun              : I took CENG 300 - Summer Practice - I (MS)
+Zeliha Yilmaz            : I am in the laboratory looking for a free computer
+Zeynep Sengil            : I got computer Inek-04
+Zeynep Sengil            : I am registering for 3 courses
+Ali Abbasi               : I took CENG 789 - Digital Geometry Processing (PHD)
+Zeynep Havva Dinc        : I took CENG 561 - Artificial Intelligence (MS)
+Turan Soyuer             : I am in the laboratory looking for a free computer
+Zeliha Yilmaz            : I got computer Inek-05
+Zeliha Yilmaz            : I am registering for 3 courses
+Zeynep Sengil            : I took CENG 491 - Computer Engineering Design I (PHD)
+Yunus Olgun              : I took CENG 540 - Programming Languages (BS)
+Zeynep Havva Dinc        : I took CENG 462 - Introduction to Artificial Intelligence (BS)
+Utku Caglayan            : I am in the laboratory looking for a free computer
+Turan Soyuer             : I got computer Inek-06
+Turan Soyuer             : I am registering for 3 courses
+Zeynep Sengil            : I took CENG 547 - Formal Specification Techniques (BS)
+Zeliha Yilmaz            : I took CENG 542 - Human Computer Interaction (MS)
+Zeynep Havva Dinc        : I took CENG 100 - Computer Engineering Orientation (MS)
+Zeynep Sengil            : I took CENG 562 - Machine Learning (MS)
+Zeliha Yilmaz            : I took CENG 465 - Introduction to Bioinformatics (MS)
+Turan Soyuer             : I took CENG 111 - Introduction to Computer Engineering Concepts (PHD)
+Yagiz Arkayin            : I am in the laboratory looking for a free computer
+Utku Caglayan            : I got computer Inek-07
+Utku Caglayan            : I am registering for 3 courses
+Suleyman Arikan          : I am in the laboratory looking for a free computer
+Turan Soyuer             : I took CENG 707 - Data Structures and Algorithms (MS)
+Zeliha Yilmaz            : I took CENG 462 - Introduction to Artificial Intelligence (BS)
+Yagiz Arkayin            : I got computer Inek-08
+Yagiz Arkayin            : I am registering for 3 courses
+Utku Caglayan            : I took CENG 599 - Term Project (MS)
+Ugur Yanikoglu           : I am in the laboratory looking for a free computer
+Suleyman Arikan          : I got computer Inek-09
+Suleyman Arikan          : I am registering for 3 courses
+Turan Soyuer             : I took CENG 547 - Formal Specification Techniques (BS)
+Utku Caglayan            : I took CENG 301 - Algorithms And Data Structures (BS)
+Yagiz Arkayin            : I took CENG 789 - Digital Geometry Processing (PHD)
+Saygin Sarioglu          : I am in the laboratory looking for a free computer
+Ugur Yanikoglu           : I got computer Inek-10
+Ugur Yanikoglu           : I am registering for 3 courses
+Suleyman Arikan          : I took CENG 784 - Statistical Methods in Natural Language Processing (MS)
+Yagiz Arkayin            : I took CENG 789 - Digital Geometry Processing - Second Program (PHD)
+Utku Caglayan            : I took CENG 583 - Computer Vision (MS)
+Sercan Hocaoglu          : I am in the laboratory looking for a free computer
+Saygin Sarioglu          : I got computer Inek-11
+Saygin Sarioglu          : I am registering for 3 courses
+Ugur Yanikoglu           : I took CENG 789 - Digital Geometry Processing (PHD)
+Suleyman Arikan          : I took CENG 562 - Machine Learning (MS)
+Yagiz Arkayin            : I took CENG 707 - Data Structures and Algorithms (MS)
+Ugur Yanikoglu           : I took CENG 707 - Data Structures and Algorithms (MS)
+Saygin Sarioglu          : I took CENG 382 - Analysis of Dynamic Systems with Feedback (MS)
+Sercan Hocaoglu          : I got computer Inek-12
+Serhan Yilmaz            : I am in the laboratory looking for a free computer
+Sercan Hocaoglu          : I am registering for 3 courses
+Suleyman Arikan          : I took CENG 707 - Data Structures and Algorithms (MS)
+Sercan Hocaoglu          : I took CENG 786 - Robot Motion Planning and Control (MS)
+Saygin Sarioglu          : I took CENG 331 - Computer Organization (MS)
+Serhan Yilmaz            : I got computer Inek-13
+Serhan Yilmaz            : I am registering for 3 courses
+Sevim Begum Sozer        : I am in the laboratory looking for a free computer
+Ugur Yanikoglu           : I took CENG 568 - Knowledge Engineering (MS)
+Sercan Hocaoglu          : I took CENG 532 - Distributed Computing Systems (MS)
+Sevim Begum Sozer        : I got computer Inek-14
+Sevim Begum Sozer        : I am registering for 3 courses
+Sema Kose                : I am in the laboratory looking for a free computer
+Saygin Sarioglu          : I took CENG 352 - Database Management Systems (BS)
+Serhan Yilmaz            : I took CENG 466 - Fundamental Image Processing Techniques (MS)
+Sercan Hocaoglu          : I took CENG 424 - Logic for Computer Sciences (BS)
+Serhan Yilmaz            : I took CENG 785 - Algorithmic Trading and Quantitative Strategies (BS)
+Sevim Begum Sozer        : I took CENG 591 - Graduate Seminar (PHD)
+Sabri Safa Ozturk        : I am in the laboratory looking for a free computer
+Sema Kose                : I got computer Inek-15
+Sema Kose                : I am registering for 3 courses
+Serhan Yilmaz            : I took CENG 542 - Human Computer Interaction (MS)
+Samet Aytac              : I am in the laboratory looking for a free computer
+Sabri Safa Ozturk        : I got computer Inek-16
+Sabri Safa Ozturk        : I am registering for 3 courses
+Sevim Begum Sozer        : I took CENG 785 - Algorithmic Trading and Quantitative Strategies (BS)
+Sema Kose                : I took CENG 564 - Pattern Recognition (BS)
+Samet Aytac              : I got computer Inek-17
+Samet Aytac              : I am registering for 3 courses
+Ozgur Baskin             : I am in the laboratory looking for a free computer
+Sabri Safa Ozturk        : I took CENG 302 - Introduction to Database Management Systems (BS)
+Sevim Begum Sozer        : I took CENG 583 - Computer Vision (MS)
+Sema Kose                : I took CENG 315 - Algorithms (BS)
+Sabri Safa Ozturk        : I took CENG 466 - Fundamental Image Processing Techniques (MS)
+Samet Aytac              : I took CENG 331 - Computer Organization (MS)
+Sema Kose                : I took CENG 789 - Digital Geometry Processing (PHD)
+Oguzhan Demir            : I am in the laboratory looking for a free computer
+Ozgur Baskin             : I got computer Inek-18
+Ozgur Baskin             : I am registering for 3 courses
+Sabri Safa Ozturk        : I took CENG 591 - Graduate Seminar (PHD)
+Samet Aytac              : I took CENG 583 - Computer Vision (MS)
+Oguzhan Demir            : I got computer Inek-19
+Oguzhan Demir            : I am registering for 3 courses
+Oyku Ozlem Cakal         : I am in the laboratory looking for a free computer
+Ozgur Baskin             : I took CENG 315 - Algorithms (BS)
+Samet Aytac              : I took CENG 547 - Formal Specification Techniques (BS)
+Ozgur Baskin             : I took CENG 301 - Algorithms And Data Structures (BS)
+Oyku Ozlem Cakal         : I got computer Inek-20
+Oyku Ozlem Cakal         : I am registering for 3 courses
+Nazli Mehrazar           : I am in the laboratory looking for a free computer
+Oguzhan Demir            : I took CENG 568 - Knowledge Engineering (MS)
+Ozgur Baskin             : I took CENG 382 - Analysis of Dynamic Systems with Feedback (MS)
+Oguzhan Demir            : I took CENG 542 - Human Computer Interaction (MS)
+Nazli Mehrazar           : No available computers, I'm waiting
+Mustafa Senol Cosar      : I am in the laboratory looking for a free computer
+Oyku Ozlem Cakal         : I took CENG 465 - Introduction to Bioinformatics (MS)
+Oguzhan Demir            : I took CENG 547 - Formal Specification Techniques (BS)
+Oyku Ozlem Cakal         : I took CENG 352 - Database Management Systems (BS)
+Mustafa Senol Cosar      : No available computers, I'm waiting
+Musa Karabulut           : I am in the laboratory looking for a free computer
+Oyku Ozlem Cakal         : I took CENG 530 - Computer Networks and Communications (BS)
+Musa Karabulut           : No available computers, I'm waiting
+Metin Aksit              : I am in the laboratory looking for a free computer
+Metin Aksit              : No available computers, I'm waiting
+Mehmet Emin Kucuk        : I am in the laboratory looking for a free computer
+Mehmet Emin Kucuk        : No available computers, I'm waiting
+Mustafa Bugra Tamer      : I am in the laboratory looking for a free computer
+Mustafa Bugra Tamer      : No available computers, I'm waiting
+Mertcan Boz              : I am in the laboratory looking for a free computer
+Mertcan Boz              : No available computers, I'm waiting
+Mesut Yilmaz             : I am in the laboratory looking for a free computer
+Mesut Yilmaz             : No available computers, I'm waiting
+Melih Burak Mert         : I am in the laboratory looking for a free computer
+Melih Burak Mert         : No available computers, I'm waiting
+Kaan Toker               : I am in the laboratory looking for a free computer
+Kaan Toker               : No available computers, I'm waiting
+Mehmet Mustafa Nacar     : I am in the laboratory looking for a free computer
+Mehmet Mustafa Nacar     : No available computers, I'm waiting
+Kadir Can Buldurucu      : I am in the laboratory looking for a free computer
+Kadir Can Buldurucu      : No available computers, I'm waiting
+Fatih Burak Belce        : I am in the laboratory looking for a free computer
+Fatih Burak Belce        : No available computers, I'm waiting
+Emre Can Kucukoglu       : I am in the laboratory looking for a free computer
+Emre Can Kucukoglu       : No available computers, I'm waiting
+Ismail Sarp Dikkaya      : I am in the laboratory looking for a free computer
+Ismail Sarp Dikkaya      : No available computers, I'm waiting
+Emel Varol               : I am in the laboratory looking for a free computer
+Emel Varol               : No available computers, I'm waiting
+Emre Yigit Alparslan     : I am in the laboratory looking for a free computer
+Emre Yigit Alparslan     : No available computers, I'm waiting
+Doguscan Namal           : I am in the laboratory looking for a free computer
+Doguscan Namal           : No available computers, I'm waiting
+Emre Akin                : I am in the laboratory looking for a free computer
+Emre Akin                : No available computers, I'm waiting
+Efe Erdil                : I am in the laboratory looking for a free computer
+Efe Erdil                : No available computers, I'm waiting
+Cemre Goc                : I am in the laboratory looking for a free computer
+Cemre Goc                : No available computers, I'm waiting
+Ekrem Demirhan           : I am in the laboratory looking for a free computer
+Ekrem Demirhan           : No available computers, I'm waiting
+Dicle Ayzit              : I am in the laboratory looking for a free computer
+Dicle Ayzit              : No available computers, I'm waiting
+Burak Balci              : I am in the laboratory looking for a free computer
+Burak Balci              : No available computers, I'm waiting
+Cemil Kocaman            : I am in the laboratory looking for a free computer
+Cemil Kocaman            : No available computers, I'm waiting
+Baris Ozcelik            : I am in the laboratory looking for a free computer
+Baris Ozcelik            : No available computers, I'm waiting
+Bunyamin Sarigul         : I am in the laboratory looking for a free computer
+Bunyamin Sarigul         : No available computers, I'm waiting
+Baler Ilhan              : I am in the laboratory looking for a free computer
+Baler Ilhan              : No available computers, I'm waiting
+Bahadir Berkay Unsal     : I am in the laboratory looking for a free computer
+Bahadir Berkay Unsal     : No available computers, I'm waiting
+Arda Guney               : I am in the laboratory looking for a free computer
+Arda Guney               : No available computers, I'm waiting
+Ali Haydar Karapinar     : I am in the laboratory looking for a free computer
+Ali Haydar Karapinar     : No available computers, I'm waiting
+Artur Mantaluta          : I am in the laboratory looking for a free computer
+Artur Mantaluta          : No available computers, I'm waiting
+Abdullah Goktug Mert     : I am in the laboratory looking for a free computer
+Abdullah Goktug Mert     : No available computers, I'm waiting
+Azat Dzhanybekov         : I am in the laboratory looking for a free computer
+Azat Dzhanybekov         : No available computers, I'm waiting
+Abdulkadir Dalga         : I am in the laboratory looking for a free computer
+Abdulkadir Dalga         : No available computers, I'm waiting
+Oyku Ozlem Cakal         : I am leaving computer Inek-20
+Oguzhan Demir            : I am leaving computer Inek-19
+Oguzhan Demir            : I am about to get my registration checked by Volkan Atalay
+Volkan Atalay            : I am checking registration of Oguzhan Demir
+Oyku Ozlem Cakal         : I am about to get my registration checked by Aysenur Birturk
+Aysenur Birturk          : I am checking registration of Oyku Ozlem Cakal
+Ozgur Baskin             : I am leaving computer Inek-18
+Ozgur Baskin             : I am about to get my registration checked by Tolga Can
+Tolga Can                : I am checking registration of Ozgur Baskin
+Samet Aytac              : I am leaving computer Inek-17
+Samet Aytac              : I am about to get my registration checked by Ruken Cakici
+Ruken Cakici             : I am checking registration of Samet Aytac
+Sabri Safa Ozturk        : I am leaving computer Inek-16
+Sabri Safa Ozturk        : I am about to get my registration checked by Ahmet Cosar
+Sema Kose                : I am leaving computer Inek-15
+Ahmet Cosar              : I am checking registration of Sabri Safa Ozturk
+Sevim Begum Sozer        : I am leaving computer Inek-14
+Sevim Begum Sozer        : I am about to get my registration checked by Sinan Kalkan
+Sema Kose                : I am about to get my registration checked by Ali Hikmet Dogru
+Sinan Kalkan             : I am checking registration of Sevim Begum Sozer
+Ali Hikmet Dogru         : I am checking registration of Sema Kose
+Serhan Yilmaz            : I am leaving computer Inek-13
+Serhan Yilmaz            : I am about to get my registration checked by Veysi Isler
+Veysi Isler              : I am checking registration of Serhan Yilmaz
+Sercan Hocaoglu          : I am leaving computer Inek-12
+Sercan Hocaoglu          : I am about to get my registration checked by Seyda Ertekin
+Seyda Ertekin            : I am checking registration of Sercan Hocaoglu
+Saygin Sarioglu          : I am leaving computer Inek-11
+Saygin Sarioglu          : I am about to get my registration checked by Nihan Kesim Cicekli
+Nihan Kesim Cicekli      : I am checking registration of Saygin Sarioglu
+Ugur Yanikoglu           : I am leaving computer Inek-10
+Ugur Yanikoglu           : I am about to get my registration checked by Halit Oguztuzun
+Halit Oguztuzun          : I am checking registration of Ugur Yanikoglu
+Suleyman Arikan          : I am leaving computer Inek-09
+Suleyman Arikan          : I am about to get my registration checked by Pinar Karagoz
+Pinar Karagoz            : I am checking registration of Suleyman Arikan
+Yagiz Arkayin            : I am leaving computer Inek-08
+Yagiz Arkayin            : I am about to get my registration checked by Atilla Ozgit
+Atilla Ozgit             : I am checking registration of Yagiz Arkayin
+Utku Caglayan            : I am leaving computer Inek-07
+Utku Caglayan            : I am about to get my registration checked by Ertan Onur
+Ertan Onur               : I am checking registration of Utku Caglayan
+Turan Soyuer             : I am leaving computer Inek-06
+Turan Soyuer             : I am about to get my registration checked by Murat Manguoglu
+Murat Manguoglu          : I am checking registration of Turan Soyuer
+Zeliha Yilmaz            : I am leaving computer Inek-05
+Zeliha Yilmaz            : I am about to get my registration checked by Yusuf Sahillioglu
+Yusuf Sahillioglu        : I am checking registration of Zeliha Yilmaz
+Zeynep Sengil            : I am leaving computer Inek-04
+Zeynep Sengil            : I am about to get my registration checked by Uluc Saranli
+Zeynep Havva Dinc        : I am leaving computer Inek-03
+Uluc Saranli             : I am checking registration of Zeynep Sengil
+Zeynep Havva Dinc        : I am about to get my registration checked by Erol Sahin
+Erol Sahin               : I am checking registration of Zeynep Havva Dinc
+Yunus Olgun              : I am leaving computer Inek-02
+Yunus Olgun              : I am about to get my registration checked by Faruk Polat
+Faruk Polat              : I am checking registration of Yunus Olgun
+Ali Abbasi               : I am leaving computer Inek-01
+Efe Erdil                : Someone just left the laboratory, I'll now check again for a free computer
+Ali Abbasi               : I am about to get my registration checked by Ahmet Oguz Akyuz
+Ahmet Oguz Akyuz         : I am checking registration of Ali Abbasi
+Ali Hikmet Dogru         : CENG 564 - Pattern Recognition (BS)  ->  YES
+Seyda Ertekin            : CENG 786 - Robot Motion Planning and Control (MS)  ->  YES
+Veysi Isler              : CENG 466 - Fundamental Image Processing Techniques (MS)  ->  YES
+Nihan Kesim Cicekli      : CENG 382 - Analysis of Dynamic Systems with Feedback (MS)  ->  YES
+Ahmet Oguz Akyuz         : CENG 100 - Computer Engineering Orientation (MS)  ->  YES
+Murat Manguoglu          : CENG 111 - Introduction to Computer Engineering Concepts (PHD)  ->  NO
+Turan Soyuer             : I need to register again
+Ahmet Cosar              : CENG 302 - Introduction to Database Management Systems (BS)  ->  YES
+Efe Erdil                : I got computer Inek-01
+Efe Erdil                : I am registering for 3 courses
+Turan Soyuer             : I am in the laboratory looking for a free computer
+Aysenur Birturk          : CENG 465 - Introduction to Bioinformatics (MS)  ->  YES
+Atilla Ozgit             : CENG 789 - Digital Geometry Processing (PHD)  ->  YES
+Halit Oguztuzun          : CENG 789 - Digital Geometry Processing (PHD)  ->  YES
+Ertan Onur               : CENG 599 - Term Project (MS)  ->  YES
+Faruk Polat              : CENG 567 - Design and Analysis of Algorithms (MS)  ->  YES
+Uluc Saranli             : CENG 491 - Computer Engineering Design I (PHD)  ->  YES
+Sinan Kalkan             : CENG 591 - Graduate Seminar (PHD)  ->  YES
+Tolga Can                : CENG 315 - Algorithms (BS)  ->  YES
+Volkan Atalay            : CENG 568 - Knowledge Engineering (MS)  ->  YES
+Ruken Cakici             : CENG 331 - Computer Organization (MS)  ->  YES
+Pinar Karagoz            : CENG 784 - Statistical Methods in Natural Language Processing (MS)  ->  YES
+Erol Sahin               : CENG 561 - Artificial Intelligence (MS)  ->  YES
+Yusuf Sahillioglu        : CENG 542 - Human Computer Interaction (MS)  ->  YES
+Efe Erdil                : I took CENG 382 - Analysis of Dynamic Systems with Feedback (MS)
+Ertan Onur               : CENG 301 - Algorithms And Data Structures (BS)  ->  YES
+Ahmet Oguz Akyuz         : CENG 542 - Human Computer Interaction (MS)  ->  YES
+Ahmet Cosar              : CENG 466 - Fundamental Image Processing Techniques (MS)  ->  YES
+Aysenur Birturk          : CENG 352 - Database Management Systems (BS)  ->  YES
+Seyda Ertekin            : CENG 532 - Distributed Computing Systems (MS)  ->  YES
+Uluc Saranli             : CENG 547 - Formal Specification Techniques (BS)  ->  YES
+Sinan Kalkan             : CENG 785 - Algorithmic Trading and Quantitative Strategies (BS)  ->  YES
+Nihan Kesim Cicekli      : CENG 331 - Computer Organization (MS)  ->  YES
+Turan Soyuer             : I got computer Inek-02
+Turan Soyuer             : I am registering for 3 courses
+Volkan Atalay            : CENG 542 - Human Computer Interaction (MS)  ->  YES
+Emre Akin                : Someone just left the laboratory, I'll now check again for a free computer
+Faruk Polat              : CENG 300 - Summer Practice - I (MS)  ->  YES
+Veysi Isler              : CENG 785 - Algorithmic Trading and Quantitative Strategies (BS)  ->  YES
+Ali Hikmet Dogru         : CENG 315 - Algorithms (BS)  ->  YES
+Ruken Cakici             : CENG 583 - Computer Vision (MS)  ->  YES
+Atilla Ozgit             : CENG 789 - Digital Geometry Processing - Second Program (PHD)  ->  YES
+Halit Oguztuzun          : CENG 707 - Data Structures and Algorithms (MS)  ->  YES
+Yusuf Sahillioglu        : CENG 465 - Introduction to Bioinformatics (MS)  ->  YES
+Tolga Can                : CENG 301 - Algorithms And Data Structures (BS)  ->  YES
+Pinar Karagoz            : CENG 562 - Machine Learning (MS)  ->  YES
+Erol Sahin               : CENG 462 - Introduction to Artificial Intelligence (BS)  ->  YES
+Efe Erdil                : I took CENG 789 - Digital Geometry Processing (PHD)
+Seyda Ertekin            : CENG 424 - Logic for Computer Sciences (BS)  ->  YES
+Ahmet Cosar              : CENG 591 - Graduate Seminar (PHD)  ->  NO
+Sabri Safa Ozturk        : I need to register again
+Sercan Hocaoglu          : My registration is approved
+Sercan Hocaoglu          : I'm joining the after-registration party
+Ertan Onur               : CENG 583 - Computer Vision (MS)  ->  YES
+Utku Caglayan            : My registration is approved
+Utku Caglayan            : I'm joining the after-registration party
+Aysenur Birturk          : CENG 530 - Computer Networks and Communications (BS)  ->  YES
+Oyku Ozlem Cakal         : My registration is approved
+Oyku Ozlem Cakal         : I'm joining the after-registration party
+Ahmet Oguz Akyuz         : CENG 789 - Digital Geometry Processing (PHD)  ->  YES
+Ali Abbasi               : My registration is approved
+Ali Abbasi               : I'm joining the after-registration party
+Turan Soyuer             : I took CENG 530 - Computer Networks and Communications (BS)
+Sinan Kalkan             : CENG 583 - Computer Vision (MS)  ->  YES
+Sevim Begum Sozer        : My registration is approved
+Sevim Begum Sozer        : I'm joining the after-registration party
+Faruk Polat              : CENG 540 - Programming Languages (BS)  ->  YES
+Veysi Isler              : CENG 542 - Human Computer Interaction (MS)  ->  YES
+Serhan Yilmaz            : My registration is approved
+Serhan Yilmaz            : I'm joining the after-registration party
+Yunus Olgun              : My registration is approved
+Yunus Olgun              : I'm joining the after-registration party
+Nihan Kesim Cicekli      : CENG 352 - Database Management Systems (BS)  ->  YES
+Saygin Sarioglu          : My registration is approved
+Saygin Sarioglu          : I'm joining the after-registration party
+Pinar Karagoz            : CENG 707 - Data Structures and Algorithms (MS)  ->  YES
+Suleyman Arikan          : My registration is approved
+Suleyman Arikan          : I'm joining the after-registration party
+Ali Hikmet Dogru         : CENG 789 - Digital Geometry Processing (PHD)  ->  NO
+Sema Kose                : I need to register again
+Uluc Saranli             : CENG 562 - Machine Learning (MS)  ->  YES
+Zeynep Sengil            : My registration is approved
+Zeynep Sengil            : I'm joining the after-registration party
+Efe Erdil                : I took CENG 789 - Digital Geometry Processing - Second Program (PHD)
+Halit Oguztuzun          : CENG 568 - Knowledge Engineering (MS)  ->  YES
+Ugur Yanikoglu           : My registration is approved
+Ugur Yanikoglu           : I'm joining the after-registration party
+Volkan Atalay            : CENG 547 - Formal Specification Techniques (BS)  ->  NO
+Oguzhan Demir            : I need to register again
+Doguscan Namal           : Someone just left the laboratory, I'll now check again for a free computer
+Emre Akin                : I got computer Inek-03
+Emre Akin                : I am registering for 3 courses
+Atilla Ozgit             : CENG 707 - Data Structures and Algorithms (MS)  ->  YES
+Yagiz Arkayin            : My registration is approved
+Yagiz Arkayin            : I'm joining the after-registration party
+Ruken Cakici             : CENG 547 - Formal Specification Techniques (BS)  ->  YES
+Samet Aytac              : My registration is approved
+Samet Aytac              : I'm joining the after-registration party
+Tolga Can                : CENG 382 - Analysis of Dynamic Systems with Feedback (MS)  ->  YES
+Ozgur Baskin             : My registration is approved
+Ozgur Baskin             : I'm joining the after-registration party
+Yusuf Sahillioglu        : CENG 462 - Introduction to Artificial Intelligence (BS)  ->  YES
+Zeliha Yilmaz            : My registration is approved
+Zeliha Yilmaz            : I'm joining the after-registration party
+Erol Sahin               : CENG 100 - Computer Engineering Orientation (MS)  ->  YES
+Zeynep Havva Dinc        : My registration is approved
+Zeynep Havva Dinc        : I'm joining the after-registration party
+Turan Soyuer             : I took CENG 785 - Algorithmic Trading and Quantitative Strategies (BS)
+Emre Akin                : I took CENG 305 - Object-Oriented Programming with Java (BS)
+Emre Yigit Alparslan     : Someone just left the laboratory, I'll now check again for a free computer
+Doguscan Namal           : I got computer Inek-04
+Doguscan Namal           : I am registering for 3 courses
+Turan Soyuer             : I took CENG 568 - Knowledge Engineering (MS)
+Emre Akin                : I took CENG 530 - Computer Networks and Communications (BS)
+Emre Yigit Alparslan     : I got computer Inek-05
+Emre Yigit Alparslan     : I am registering for 3 courses
+Emel Varol               : Someone just left the laboratory, I'll now check again for a free computer
+Doguscan Namal           : I took CENG 547 - Formal Specification Techniques (BS)
+Emre Akin                : I took CENG 567 - Design and Analysis of Algorithms (MS)
+Doguscan Namal           : I took CENG 542 - Human Computer Interaction (MS)
+Emre Yigit Alparslan     : I took CENG 498 - Software Development with Scripting Languges (PHD)
+Emel Varol               : I got computer Inek-06
+Emel Varol               : I am registering for 3 courses
+Ismail Sarp Dikkaya      : Someone just left the laboratory, I'll now check again for a free computer
+Doguscan Namal           : I took CENG 315 - Algorithms (BS)
+Emre Yigit Alparslan     : I took CENG 564 - Pattern Recognition (BS)
+Emel Varol               : I took CENG 561 - Artificial Intelligence (MS)
+Ismail Sarp Dikkaya      : I got computer Inek-07
+Ismail Sarp Dikkaya      : I am registering for 3 courses
+Emre Can Kucukoglu       : Someone just left the laboratory, I'll now check again for a free computer
+Emre Yigit Alparslan     : I took CENG 465 - Introduction to Bioinformatics (MS)
+Emel Varol               : I took CENG 301 - Algorithms And Data Structures (BS)
+Emre Can Kucukoglu       : I got computer Inek-08
+Emre Can Kucukoglu       : I am registering for 3 courses
+Fatih Burak Belce        : Someone just left the laboratory, I'll now check again for a free computer
+Ismail Sarp Dikkaya      : I took CENG 451 - Information Systems Analysis and Design (BS)
+Emel Varol               : I took CENG 465 - Introduction to Bioinformatics (MS)
+Emre Can Kucukoglu       : I took CENG 462 - Introduction to Artificial Intelligence (BS)
+Ismail Sarp Dikkaya      : I took CENG 301 - Algorithms And Data Structures (BS)
+Fatih Burak Belce        : I got computer Inek-09
+Fatih Burak Belce        : I am registering for 3 courses
+Kadir Can Buldurucu      : Someone just left the laboratory, I'll now check again for a free computer
+Emre Can Kucukoglu       : I took CENG 213 - Data Structures (MS)
+Ismail Sarp Dikkaya      : I took CENG 540 - Programming Languages (BS)
+Kadir Can Buldurucu      : I got computer Inek-10
+Kadir Can Buldurucu      : I am registering for 3 courses
+Mehmet Mustafa Nacar     : Someone just left the laboratory, I'll now check again for a free computer
+Fatih Burak Belce        : I took CENG 567 - Design and Analysis of Algorithms (MS)
+Emre Can Kucukoglu       : I took CENG 784 - Statistical Methods in Natural Language Processing (MS)
+Kadir Can Buldurucu      : I took CENG 443 - Introduction to Object Oriented Programming Languages and Systems (BS)
+Mehmet Mustafa Nacar     : I got computer Inek-11
+Mehmet Mustafa Nacar     : I am registering for 3 courses
+Kaan Toker               : Someone just left the laboratory, I'll now check again for a free computer
+Fatih Burak Belce        : I took CENG 466 - Fundamental Image Processing Techniques (MS)
+Mehmet Mustafa Nacar     : I took CENG 532 - Distributed Computing Systems (MS)
+Kadir Can Buldurucu      : I took CENG 435 - Data Communications and Networking (BS)
+Fatih Burak Belce        : I took CENG 542 - Human Computer Interaction (MS)
+Melih Burak Mert         : Someone just left the laboratory, I'll now check again for a free computer
+Kaan Toker               : I got computer Inek-12
+Kaan Toker               : I am registering for 3 courses
+Mehmet Mustafa Nacar     : I took CENG 213 - Data Structures (MS)
+Kadir Can Buldurucu      : I took CENG 302 - Introduction to Database Management Systems (BS)
+Mehmet Mustafa Nacar     : I took CENG 540 - Programming Languages (BS)
+Kaan Toker               : I took CENG 789 - Digital Geometry Processing - Second Program (PHD)
+Melih Burak Mert         : I got computer Inek-13
+Melih Burak Mert         : I am registering for 3 courses
+Mesut Yilmaz             : Someone just left the laboratory, I'll now check again for a free computer
+Melih Burak Mert         : I took CENG 530 - Computer Networks and Communications (BS)
+Kaan Toker               : I took CENG 551 - System Development with Abstract Design (BS)
+Mesut Yilmaz             : I got computer Inek-14
+Mesut Yilmaz             : I am registering for 3 courses
+Mertcan Boz              : Someone just left the laboratory, I'll now check again for a free computer
+Melih Burak Mert         : I took CENG 551 - System Development with Abstract Design (BS)
+Mertcan Boz              : I got computer Inek-15
+Mertcan Boz              : I am registering for 3 courses
+Mustafa Bugra Tamer      : Someone just left the laboratory, I'll now check again for a free computer
+Kaan Toker               : I took CENG 583 - Computer Vision (MS)
+Mesut Yilmaz             : I took CENG 780 - Sparse Matrix Computations (BS)
+Melih Burak Mert         : I took CENG 111 - Introduction to Computer Engineering Concepts (PHD)
+Mustafa Bugra Tamer      : I got computer Inek-16
+Mustafa Bugra Tamer      : I am registering for 3 courses
+Mehmet Emin Kucuk        : Someone just left the laboratory, I'll now check again for a free computer
+Mertcan Boz              : I took CENG 540 - Programming Languages (BS)
+Mesut Yilmaz             : I took CENG 565 - Theory of Computation (MS)
+Mustafa Bugra Tamer      : I took CENG 465 - Introduction to Bioinformatics (MS)
+Mertcan Boz              : I took CENG 561 - Artificial Intelligence (MS)
+Mehmet Emin Kucuk        : I got computer Inek-17
+Mehmet Emin Kucuk        : I am registering for 3 courses
+Metin Aksit              : Someone just left the laboratory, I'll now check again for a free computer
+Mesut Yilmaz             : I took CENG 547 - Formal Specification Techniques (BS)
+Mustafa Bugra Tamer      : I took CENG 566 - Image Processing (BS)
+Mertcan Boz              : I took CENG 532 - Distributed Computing Systems (MS)
+Mehmet Emin Kucuk        : I took CENG 302 - Introduction to Database Management Systems (BS)
+Musa Karabulut           : Someone just left the laboratory, I'll now check again for a free computer
+Metin Aksit              : I got computer Inek-18
+Metin Aksit              : I am registering for 3 courses
+Mustafa Bugra Tamer      : I took CENG 300 - Summer Practice - I (MS)
+Musa Karabulut           : I got computer Inek-19
+Musa Karabulut           : I am registering for 3 courses
+Mustafa Senol Cosar      : Someone just left the laboratory, I'll now check again for a free computer
+Mehmet Emin Kucuk        : I took CENG 583 - Computer Vision (MS)
+Metin Aksit              : I took CENG 352 - Database Management Systems (BS)
+Musa Karabulut           : I took CENG 599 - Term Project (MS)
+Mustafa Senol Cosar      : I got computer Inek-20
+Mustafa Senol Cosar      : I am registering for 3 courses
+Nazli Mehrazar           : Someone just left the laboratory, I'll now check again for a free computer
+Mehmet Emin Kucuk        : I took CENG 451 - Information Systems Analysis and Design (BS)
+Mustafa Senol Cosar      : I took CENG 567 - Design and Analysis of Algorithms (MS)
+Metin Aksit              : I took CENG 451 - Information Systems Analysis and Design (BS)
+Musa Karabulut           : I took CENG 331 - Computer Organization (MS)
+Nazli Mehrazar           : No available computers, I'm waiting
+Mehmet Emin Kucuk        : I am leaving computer Inek-17
+Mustafa Bugra Tamer      : I am leaving computer Inek-16
+Mehmet Emin Kucuk        : I am about to get my registration checked by Sibel Tari
+Mertcan Boz              : I am leaving computer Inek-15
+Mustafa Bugra Tamer      : I am about to get my registration checked by Ahmet Oguz Akyuz
+Mesut Yilmaz             : I am leaving computer Inek-14
+Mertcan Boz              : I am about to get my registration checked by Fatos Yarman-Vural
+Fatos Yarman-Vural       : I am checking registration of Mertcan Boz
+Sibel Tari               : I am checking registration of Mehmet Emin Kucuk
+Melih Burak Mert         : I am leaving computer Inek-13
+Mesut Yilmaz             : I am about to get my registration checked by Adnan Yazici
+Ahmet Oguz Akyuz         : I am checking registration of Mustafa Bugra Tamer
+Adnan Yazici             : I am checking registration of Mesut Yilmaz
+Kaan Toker               : I am leaving computer Inek-12
+Melih Burak Mert         : I am about to get my registration checked by Gokturk Ucoluk
+Gokturk Ucoluk           : I am checking registration of Melih Burak Mert
+Mehmet Mustafa Nacar     : I am leaving computer Inek-11
+Kaan Toker               : I am about to get my registration checked by Onur Tolga Sehitoglu
+Kadir Can Buldurucu      : I am leaving computer Inek-10
+Mehmet Mustafa Nacar     : I am about to get my registration checked by Ismail Hakki Toroslu
+Ismail Hakki Toroslu     : I am checking registration of Mehmet Mustafa Nacar
+Fatih Burak Belce        : I am leaving computer Inek-09
+Kadir Can Buldurucu      : I am about to get my registration checked by Cevat Sener
+Onur Tolga Sehitoglu     : I am checking registration of Kaan Toker
+Cevat Sener              : I am checking registration of Kadir Can Buldurucu
+Fatih Burak Belce        : I am about to get my registration checked by Uluc Saranli
+Uluc Saranli             : I am checking registration of Fatih Burak Belce
+Emre Can Kucukoglu       : I am leaving computer Inek-08
+Emre Can Kucukoglu       : I am about to get my registration checked by Faruk Polat
+Faruk Polat              : I am checking registration of Emre Can Kucukoglu
+Ismail Sarp Dikkaya      : I am leaving computer Inek-07
+Ismail Sarp Dikkaya      : I am about to get my registration checked by Erol Sahin
+Emel Varol               : I am leaving computer Inek-06
+Erol Sahin               : I am checking registration of Ismail Sarp Dikkaya
+Emre Yigit Alparslan     : I am leaving computer Inek-05
+Emel Varol               : I am about to get my registration checked by Ertan Onur
+Emre Yigit Alparslan     : I am about to get my registration checked by Yusuf Sahillioglu
+Yusuf Sahillioglu        : I am checking registration of Emre Yigit Alparslan
+Doguscan Namal           : I am leaving computer Inek-04
+Ertan Onur               : I am checking registration of Emel Varol
+Emre Akin                : I am leaving computer Inek-03
+Emre Akin                : I am about to get my registration checked by Atilla Ozgit
+Atilla Ozgit             : I am checking registration of Emre Akin
+Doguscan Namal           : I am about to get my registration checked by Pinar Karagoz
+Pinar Karagoz            : I am checking registration of Doguscan Namal
+Turan Soyuer             : I am leaving computer Inek-02
+Turan Soyuer             : I am about to get my registration checked by Murat Manguoglu
+Murat Manguoglu          : I am checking registration of Turan Soyuer
+Oguzhan Demir            : I am in the laboratory looking for a free computer
+Mustafa Senol Cosar      : I took CENG 530 - Computer Networks and Communications (BS)
+Musa Karabulut           : I took CENG 536 - Advanced Unix (PHD)
+Metin Aksit              : I took CENG 599 - Term Project (MS)
+Ahmet Oguz Akyuz         : CENG 465 - Introduction to Bioinformatics (MS)  ->  YES
+Ismail Hakki Toroslu     : CENG 532 - Distributed Computing Systems (MS)  ->  YES
+Gokturk Ucoluk           : CENG 530 - Computer Networks and Communications (BS)  ->  NO
+Melih Burak Mert         : I need to register again
+Fatos Yarman-Vural       : CENG 540 - Programming Languages (BS)  ->  NO
+Mertcan Boz              : I need to register again
+Cevat Sener              : CENG 443 - Introduction to Object Oriented Programming Languages and Systems (BS)  ->  NO
+Kadir Can Buldurucu      : I need to register again
+Onur Tolga Sehitoglu     : CENG 789 - Digital Geometry Processing - Second Program (PHD)  ->  NO
+Kaan Toker               : I need to register again
+Adnan Yazici             : CENG 780 - Sparse Matrix Computations (BS)  ->  YES
+Faruk Polat              : CENG 462 - Introduction to Artificial Intelligence (BS)  ->  YES
+Erol Sahin               : CENG 451 - Information Systems Analysis and Design (BS)  ->  YES
+Atilla Ozgit             : CENG 305 - Object-Oriented Programming with Java (BS)  ->  NO
+Emre Akin                : I need to register again
+Sibel Tari               : CENG 302 - Introduction to Database Management Systems (BS)  ->  YES
+Uluc Saranli             : CENG 567 - Design and Analysis of Algorithms (MS)  ->  YES
+Pinar Karagoz            : CENG 547 - Formal Specification Techniques (BS)  ->  NO
+Doguscan Namal           : I need to register again
+Yusuf Sahillioglu        : CENG 498 - Software Development with Scripting Languges (PHD)  ->  YES
+Mustafa Senol Cosar      : I took CENG 547 - Formal Specification Techniques (BS)
+Oguzhan Demir            : I got computer Inek-02
+Efe Erdil                : I am leaving computer Inek-01
+Sema Kose                : I am in the laboratory looking for a free computer
+Oguzhan Demir            : I am registering for 3 courses
+Murat Manguoglu          : CENG 530 - Computer Networks and Communications (BS)  ->  YES
+Ertan Onur               : CENG 561 - Artificial Intelligence (MS)  ->  YES
+Ahmet Oguz Akyuz         : CENG 566 - Image Processing (BS)  ->  NO
+Mustafa Bugra Tamer      : I need to register again
+Ismail Hakki Toroslu     : CENG 213 - Data Structures (MS)  ->  YES
+Oguzhan Demir            : I took CENG 780 - Sparse Matrix Computations (BS)
+Adnan Yazici             : CENG 565 - Theory of Computation (MS)  ->  YES
+Faruk Polat              : CENG 213 - Data Structures (MS)  ->  YES
+Yusuf Sahillioglu        : CENG 564 - Pattern Recognition (BS)  ->  YES
+Uluc Saranli             : CENG 466 - Fundamental Image Processing Techniques (MS)  ->  YES
+Ertan Onur               : CENG 301 - Algorithms And Data Structures (BS)  ->  YES
+Murat Manguoglu          : CENG 785 - Algorithmic Trading and Quantitative Strategies (BS)  ->  YES
+Erol Sahin               : CENG 301 - Algorithms And Data Structures (BS)  ->  YES
+Sibel Tari               : CENG 583 - Computer Vision (MS)  ->  YES
+Sema Kose                : I got computer Inek-01
+Sema Kose                : I am registering for 3 courses
+Sabri Safa Ozturk        : I am in the laboratory looking for a free computer
+Ismail Hakki Toroslu     : CENG 540 - Programming Languages (BS)  ->  YES
+Mehmet Mustafa Nacar     : My registration is approved
+Mehmet Mustafa Nacar     : I'm joining the after-registration party
+Oguzhan Demir            : I took CENG 566 - Image Processing (BS)
+Faruk Polat              : CENG 784 - Statistical Methods in Natural Language Processing (MS)  ->  YES
+Emre Can Kucukoglu       : My registration is approved
+Emre Can Kucukoglu       : I'm joining the after-registration party
+Murat Manguoglu          : CENG 568 - Knowledge Engineering (MS)  ->  YES
+Turan Soyuer             : My registration is approved
+Turan Soyuer             : I'm joining the after-registration party
+Efe Erdil                : I am about to get my registration checked by Murat Manguoglu
+Murat Manguoglu          : I am checking registration of Efe Erdil
+Erol Sahin               : CENG 540 - Programming Languages (BS)  ->  YES
+Ismail Sarp Dikkaya      : My registration is approved
+Ismail Sarp Dikkaya      : I'm joining the after-registration party
+Adnan Yazici             : CENG 547 - Formal Specification Techniques (BS)  ->  YES
+Mesut Yilmaz             : My registration is approved
+Mesut Yilmaz             : I'm joining the after-registration party
+Yusuf Sahillioglu        : CENG 465 - Introduction to Bioinformatics (MS)  ->  YES
+Emre Yigit Alparslan     : My registration is approved
+Emre Yigit Alparslan     : I'm joining the after-registration party
+Uluc Saranli             : CENG 542 - Human Computer Interaction (MS)  ->  YES
+Fatih Burak Belce        : My registration is approved
+Fatih Burak Belce        : I'm joining the after-registration party
+Sabri Safa Ozturk        : I got computer Inek-03
+Mustafa Bugra Tamer      : I am in the laboratory looking for a free computer
+Sabri Safa Ozturk        : I am registering for 3 courses
+Ertan Onur               : CENG 465 - Introduction to Bioinformatics (MS)  ->  YES
+Emel Varol               : My registration is approved
+Emel Varol               : I'm joining the after-registration party
+Sema Kose                : I took CENG 786 - Robot Motion Planning and Control (MS)
+Oguzhan Demir            : I took CENG 550 - Software Engineering (MS)
+Sibel Tari               : CENG 451 - Information Systems Analysis and Design (BS)  ->  YES
+Mehmet Emin Kucuk        : My registration is approved
+Mehmet Emin Kucuk        : I'm joining the after-registration party
+Sema Kose                : I took CENG 542 - Human Computer Interaction (MS)
+Murat Manguoglu          : CENG 382 - Analysis of Dynamic Systems with Feedback (MS)  ->  YES
+Mustafa Senol Cosar      : I am leaving computer Inek-20
+Mustafa Bugra Tamer      : I got computer Inek-04
+Mustafa Bugra Tamer      : I am registering for 3 courses
+Doguscan Namal           : I am in the laboratory looking for a free computer
+Mustafa Senol Cosar      : I am about to get my registration checked by Ferda Nur Alpaslan
+Ferda Nur Alpaslan       : I am checking registration of Mustafa Senol Cosar
+Sabri Safa Ozturk        : I took CENG 443 - Introduction to Object Oriented Programming Languages and Systems (BS)
+Sema Kose                : I took CENG 568 - Knowledge Engineering (MS)
+Ferda Nur Alpaslan       : CENG 567 - Design and Analysis of Algorithms (MS)  ->  YES
+Sabri Safa Ozturk        : I took CENG 565 - Theory of Computation (MS)
+Mustafa Bugra Tamer      : I took CENG 562 - Machine Learning (MS)
+Doguscan Namal           : I got computer Inek-05
+Doguscan Namal           : I am registering for 3 courses
+Emre Akin                : I am in the laboratory looking for a free computer
+Murat Manguoglu          : CENG 789 - Digital Geometry Processing (PHD)  ->  YES
+Doguscan Namal           : I took CENG 443 - Introduction to Object Oriented Programming Languages and Systems (BS)
+Murat Manguoglu          : CENG 789 - Digital Geometry Processing - Second Program (PHD)  ->  YES
+Efe Erdil                : My registration is approved
+Efe Erdil                : I'm joining the after-registration party
+Emre Akin                : I got computer Inek-06
+Emre Akin                : I am registering for 3 courses
+Kaan Toker               : I am in the laboratory looking for a free computer
+Ferda Nur Alpaslan       : CENG 530 - Computer Networks and Communications (BS)  ->  YES
+Mustafa Bugra Tamer      : I took CENG 382 - Analysis of Dynamic Systems with Feedback (MS)
+Sabri Safa Ozturk        : I took CENG 435 - Data Communications and Networking (BS)
+Kaan Toker               : I got computer Inek-07
+Kaan Toker               : I am registering for 3 courses
+Kadir Can Buldurucu      : I am in the laboratory looking for a free computer
+Mustafa Bugra Tamer      : I took CENG 583 - Computer Vision (MS)
+Doguscan Namal           : I took CENG 565 - Theory of Computation (MS)
+Ferda Nur Alpaslan       : CENG 547 - Formal Specification Techniques (BS)  ->  YES
+Mustafa Senol Cosar      : My registration is approved
+Mustafa Senol Cosar      : I'm joining the after-registration party
+Emre Akin                : I took CENG 305 - Object-Oriented Programming with Java (BS)
+Kaan Toker               : I took CENG 100 - Computer Engineering Orientation (MS)
+Kadir Can Buldurucu      : I got computer Inek-08
+Mertcan Boz              : I am in the laboratory looking for a free computer
+Kadir Can Buldurucu      : I am registering for 3 courses
+Doguscan Namal           : I took CENG 111 - Introduction to Computer Engineering Concepts (PHD)
+Emre Akin                : I took CENG 443 - Introduction to Object Oriented Programming Languages and Systems (BS)
+Kaan Toker               : I took CENG 568 - Knowledge Engineering (MS)
+Mertcan Boz              : I got computer Inek-09
+Mertcan Boz              : I am registering for 3 courses
+Melih Burak Mert         : I am in the laboratory looking for a free computer
+Kadir Can Buldurucu      : I took CENG 301 - Algorithms And Data Structures (BS)
+Emre Akin                : I took CENG 301 - Algorithms And Data Structures (BS)
+Mertcan Boz              : I took CENG 302 - Introduction to Database Management Systems (BS)
+Kadir Can Buldurucu      : I took CENG 709 - Computer Architecture and Operating Systems (BS)
+Kaan Toker               : I took CENG 574 - Statistical Data Analysis (MS)
+Melih Burak Mert         : I got computer Inek-10
+Melih Burak Mert         : I am registering for 3 courses
+Metin Aksit              : I am leaving computer Inek-18
+Metin Aksit              : I am about to get my registration checked by Selim Temizer
+Selim Temizer            : I am checking registration of Metin Aksit
+Musa Karabulut           : I am leaving computer Inek-19
+Musa Karabulut           : I am about to get my registration checked by Emre Akbas
+Emre Akbas               : I am checking registration of Musa Karabulut
+Nazli Mehrazar           : Someone just left the laboratory, I'll now check again for a free computer
+Mertcan Boz              : I took CENG 466 - Fundamental Image Processing Techniques (MS)
+Kadir Can Buldurucu      : I took CENG 462 - Introduction to Artificial Intelligence (BS)
+Emre Akbas               : CENG 599 - Term Project (MS)  ->  YES
+Melih Burak Mert         : I took CENG 498 - Software Development with Scripting Languges (PHD)
+Selim Temizer            : CENG 352 - Database Management Systems (BS)  ->  NO
+Metin Aksit              : I need to register again
+Nazli Mehrazar           : I got computer Inek-11
+Nazli Mehrazar           : I am registering for 3 courses
+Abdulkadir Dalga         : Someone just left the laboratory, I'll now check again for a free computer
+Emre Akbas               : CENG 331 - Computer Organization (MS)  ->  YES
+Mertcan Boz              : I took CENG 477 - Introduction to Computer Graphics (MS)
+Melih Burak Mert         : I took CENG 462 - Introduction to Artificial Intelligence (BS)
+Azat Dzhanybekov         : Someone just left the laboratory, I'll now check again for a free computer
+Abdulkadir Dalga         : I got computer Inek-12
+Abdulkadir Dalga         : I am registering for 3 courses
+Nazli Mehrazar           : I took CENG 540 - Programming Languages (BS)
+Melih Burak Mert         : I took CENG 547 - Formal Specification Techniques (BS)
+Emre Akbas               : CENG 536 - Advanced Unix (PHD)  ->  NO
+Musa Karabulut           : I need to register again
+Azat Dzhanybekov         : I got computer Inek-13
+Azat Dzhanybekov         : I am registering for 3 courses
+Abdullah Goktug Mert     : Someone just left the laboratory, I'll now check again for a free computer
+Nazli Mehrazar           : I took CENG 789 - Digital Geometry Processing - Second Program (PHD)
+Abdulkadir Dalga         : I took CENG 707 - Data Structures and Algorithms (MS)
+Azat Dzhanybekov         : I took CENG 550 - Software Engineering (MS)
+Nazli Mehrazar           : I took CENG 491 - Computer Engineering Design I (PHD)
+Abdullah Goktug Mert     : I got computer Inek-14
+Abdullah Goktug Mert     : I am registering for 3 courses
+Artur Mantaluta          : Someone just left the laboratory, I'll now check again for a free computer
+Abdulkadir Dalga         : I took CENG 530 - Computer Networks and Communications (BS)
+Azat Dzhanybekov         : I took CENG 300 - Summer Practice - I (MS)
+Abdulkadir Dalga         : I took CENG 315 - Algorithms (BS)
+Abdullah Goktug Mert     : I took CENG 111 - Introduction to Computer Engineering Concepts (PHD)
+Artur Mantaluta          : I got computer Inek-15
+Artur Mantaluta          : I am registering for 3 courses
+Ali Haydar Karapinar     : Someone just left the laboratory, I'll now check again for a free computer
+Azat Dzhanybekov         : I took CENG 213 - Data Structures (MS)
+Artur Mantaluta          : I took CENG 564 - Pattern Recognition (BS)
+Abdullah Goktug Mert     : I took CENG 451 - Information Systems Analysis and Design (BS)
+Arda Guney               : Someone just left the laboratory, I'll now check again for a free computer
+Ali Haydar Karapinar     : I got computer Inek-16
+Ali Haydar Karapinar     : I am registering for 3 courses
+Ali Haydar Karapinar     : I took CENG 352 - Database Management Systems (BS)
+Artur Mantaluta          : I took CENG 566 - Image Processing (BS)
+Abdullah Goktug Mert     : I took CENG 565 - Theory of Computation (MS)
+Arda Guney               : I got computer Inek-17
+Arda Guney               : I am registering for 3 courses
+Bahadir Berkay Unsal     : Someone just left the laboratory, I'll now check again for a free computer
+Ali Haydar Karapinar     : I took CENG 400 - Summer Practice - II (PHD)
+Artur Mantaluta          : I took CENG 542 - Human Computer Interaction (MS)
+Bahadir Berkay Unsal     : I got computer Inek-18
+Bahadir Berkay Unsal     : I am registering for 3 courses
+Baler Ilhan              : Someone just left the laboratory, I'll now check again for a free computer
+Arda Guney               : I took CENG 462 - Introduction to Artificial Intelligence (BS)
+Baler Ilhan              : I got computer Inek-19
+Baler Ilhan              : I am registering for 3 courses
+Bunyamin Sarigul         : Someone just left the laboratory, I'll now check again for a free computer
+Ali Haydar Karapinar     : I took CENG 789 - Digital Geometry Processing - Second Program (PHD)
+Arda Guney               : I took CENG 583 - Computer Vision (MS)
+Bahadir Berkay Unsal     : I took CENG 567 - Design and Analysis of Algorithms (MS)
+Bunyamin Sarigul         : I got computer Inek-20
+Bunyamin Sarigul         : I am registering for 3 courses
+Baris Ozcelik            : Someone just left the laboratory, I'll now check again for a free computer
+Baler Ilhan              : I took CENG 540 - Programming Languages (BS)
+Arda Guney               : I took CENG 465 - Introduction to Bioinformatics (MS)
+Bahadir Berkay Unsal     : I took CENG 542 - Human Computer Interaction (MS)
+Baris Ozcelik            : No available computers, I'm waiting
+Cemil Kocaman            : Someone just left the laboratory, I'll now check again for a free computer
+Baler Ilhan              : I took CENG 784 - Statistical Methods in Natural Language Processing (MS)
+Bunyamin Sarigul         : I took CENG 565 - Theory of Computation (MS)
+Bahadir Berkay Unsal     : I took CENG 701 - Virtual Reality (PHD)
+Cemil Kocaman            : No available computers, I'm waiting
+Burak Balci              : Someone just left the laboratory, I'll now check again for a free computer
+Baler Ilhan              : I took CENG 491 - Computer Engineering Design I (PHD)
+Bunyamin Sarigul         : I took CENG 785 - Algorithmic Trading and Quantitative Strategies (BS)
+Burak Balci              : No available computers, I'm waiting
+Dicle Ayzit              : Someone just left the laboratory, I'll now check again for a free computer
+Bunyamin Sarigul         : I took CENG 547 - Formal Specification Techniques (BS)
+Dicle Ayzit              : No available computers, I'm waiting
+Ekrem Demirhan           : Someone just left the laboratory, I'll now check again for a free computer
+Ekrem Demirhan           : No available computers, I'm waiting
+Cemre Goc                : Someone just left the laboratory, I'll now check again for a free computer
+Cemre Goc                : No available computers, I'm waiting
+Bunyamin Sarigul         : I am leaving computer Inek-20
+Bunyamin Sarigul         : I am about to get my registration checked by Nihan Kesim Cicekli
+Nihan Kesim Cicekli      : I am checking registration of Bunyamin Sarigul
+Baler Ilhan              : I am leaving computer Inek-19
+Baler Ilhan              : I am about to get my registration checked by Ahmet Cosar
+Ahmet Cosar              : I am checking registration of Baler Ilhan
+Bahadir Berkay Unsal     : I am leaving computer Inek-18
+Bahadir Berkay Unsal     : I am about to get my registration checked by Tolga Can
+Tolga Can                : I am checking registration of Bahadir Berkay Unsal
+Arda Guney               : I am leaving computer Inek-17
+Arda Guney               : I am about to get my registration checked by Ismail Sengor Altingovde
+Ismail Sengor Altingovde : I am checking registration of Arda Guney
+Ali Haydar Karapinar     : I am leaving computer Inek-16
+Ali Haydar Karapinar     : I am about to get my registration checked by Ferda Nur Alpaslan
+Ferda Nur Alpaslan       : I am checking registration of Ali Haydar Karapinar
+Artur Mantaluta          : I am leaving computer Inek-15
+Artur Mantaluta          : I am about to get my registration checked by Volkan Atalay
+Abdullah Goktug Mert     : I am leaving computer Inek-14
+Abdullah Goktug Mert     : I am about to get my registration checked by Emre Akbas
+Emre Akbas               : I am checking registration of Abdullah Goktug Mert
+Volkan Atalay            : I am checking registration of Artur Mantaluta
+Azat Dzhanybekov         : I am leaving computer Inek-13
+Azat Dzhanybekov         : I am about to get my registration checked by Aysenur Birturk
+Aysenur Birturk          : I am checking registration of Azat Dzhanybekov
+Abdulkadir Dalga         : I am leaving computer Inek-12
+Abdulkadir Dalga         : I am about to get my registration checked by Selim Temizer
+Selim Temizer            : I am checking registration of Abdulkadir Dalga
+Nazli Mehrazar           : I am leaving computer Inek-11
+Musa Karabulut           : I am in the laboratory looking for a free computer
+Ahmet Cosar              : CENG 540 - Programming Languages (BS)  ->  YES
+Aysenur Birturk          : CENG 550 - Software Engineering (MS)  ->  YES
+Nihan Kesim Cicekli      : CENG 565 - Theory of Computation (MS)  ->  YES
+Ferda Nur Alpaslan       : CENG 352 - Database Management Systems (BS)  ->  YES
+Tolga Can                : CENG 567 - Design and Analysis of Algorithms (MS)  ->  YES
+Emre Akbas               : CENG 111 - Introduction to Computer Engineering Concepts (PHD)  ->  YES
+Selim Temizer            : CENG 707 - Data Structures and Algorithms (MS)  ->  YES
+Volkan Atalay            : CENG 564 - Pattern Recognition (BS)  ->  YES
+Musa Karabulut           : I got computer Inek-11
+Musa Karabulut           : I am registering for 3 courses
+Melih Burak Mert         : I am leaving computer Inek-10
+Melih Burak Mert         : I am about to get my registration checked by Gokturk Ucoluk
+Gokturk Ucoluk           : I am checking registration of Melih Burak Mert
+Mertcan Boz              : I am leaving computer Inek-09
+Mertcan Boz              : I am about to get my registration checked by Fatos Yarman-Vural
+Fatos Yarman-Vural       : I am checking registration of Mertcan Boz
+Metin Aksit              : I am in the laboratory looking for a free computer
+Ismail Sengor Altingovde : CENG 462 - Introduction to Artificial Intelligence (BS)  ->  YES
+Ferda Nur Alpaslan       : CENG 400 - Summer Practice - II (PHD)  ->  NO
+Ali Haydar Karapinar     : I need to register again
+Ahmet Cosar              : CENG 784 - Statistical Methods in Natural Language Processing (MS)  ->  YES
+Gokturk Ucoluk           : CENG 498 - Software Development with Scripting Languges (PHD)  ->  YES
+Aysenur Birturk          : CENG 300 - Summer Practice - I (MS)  ->  YES
+Emre Akbas               : CENG 451 - Information Systems Analysis and Design (BS)  ->  NO
+Abdullah Goktug Mert     : I need to register again
+Tolga Can                : CENG 542 - Human Computer Interaction (MS)  ->  YES
+Selim Temizer            : CENG 530 - Computer Networks and Communications (BS)  ->  YES
+Musa Karabulut           : I took CENG 536 - Advanced Unix (PHD)
+Fatos Yarman-Vural       : CENG 302 - Introduction to Database Management Systems (BS)  ->  NO
+Mertcan Boz              : I need to register again
+Nihan Kesim Cicekli      : CENG 785 - Algorithmic Trading and Quantitative Strategies (BS)  ->  YES
+Volkan Atalay            : CENG 566 - Image Processing (BS)  ->  YES
+Kadir Can Buldurucu      : I am leaving computer Inek-08
+Kadir Can Buldurucu      : I am about to get my registration checked by Cevat Sener
+Cevat Sener              : I am checking registration of Kadir Can Buldurucu
+Metin Aksit              : I got computer Inek-09
+Metin Aksit              : I am registering for 3 courses
+Kaan Toker               : I am leaving computer Inek-07
+Kaan Toker               : I am about to get my registration checked by Onur Tolga Sehitoglu
+Onur Tolga Sehitoglu     : I am checking registration of Kaan Toker
+Emre Akin                : I am leaving computer Inek-06
+Emre Akin                : I am about to get my registration checked by Atilla Ozgit
+Atilla Ozgit             : I am checking registration of Emre Akin
+Doguscan Namal           : I am leaving computer Inek-05
+Doguscan Namal           : I am about to get my registration checked by Pinar Karagoz
+Pinar Karagoz            : I am checking registration of Doguscan Namal
+Mustafa Bugra Tamer      : I am leaving computer Inek-04
+Mustafa Bugra Tamer      : I am about to get my registration checked by Ahmet Oguz Akyuz
+Ahmet Oguz Akyuz         : I am checking registration of Mustafa Bugra Tamer
+Sabri Safa Ozturk        : I am leaving computer Inek-03
+Sema Kose                : I am leaving computer Inek-01
+Sema Kose                : I am about to get my registration checked by Ali Hikmet Dogru
+Ali Hikmet Dogru         : I am checking registration of Sema Kose
+Oguzhan Demir            : I am leaving computer Inek-02
+Mertcan Boz              : I am in the laboratory looking for a free computer
+Ismail Sengor Altingovde : CENG 583 - Computer Vision (MS)  ->  YES
+Gokturk Ucoluk           : CENG 462 - Introduction to Artificial Intelligence (BS)  ->  NO
+Melih Burak Mert         : I need to register again
+Tolga Can                : CENG 701 - Virtual Reality (PHD)  ->  NO
+Bahadir Berkay Unsal     : I need to register again
+Ahmet Cosar              : CENG 491 - Computer Engineering Design I (PHD)  ->  YES
+Baler Ilhan              : My registration is approved
+Baler Ilhan              : I'm joining the after-registration party
+Sabri Safa Ozturk        : I am about to get my registration checked by Ahmet Cosar
+Ahmet Cosar              : I am checking registration of Sabri Safa Ozturk
+Selim Temizer            : CENG 315 - Algorithms (BS)  ->  YES
+Abdulkadir Dalga         : My registration is approved
+Abdulkadir Dalga         : I'm joining the after-registration party
+Aysenur Birturk          : CENG 213 - Data Structures (MS)  ->  YES
+Azat Dzhanybekov         : My registration is approved
+Azat Dzhanybekov         : I'm joining the after-registration party
+Mertcan Boz              : I got computer Inek-01
+Mertcan Boz              : I am registering for 3 courses
+Abdullah Goktug Mert     : I am in the laboratory looking for a free computer
+Volkan Atalay            : CENG 542 - Human Computer Interaction (MS)  ->  YES
+Oguzhan Demir            : I am about to get my registration checked by Volkan Atalay
+Volkan Atalay            : I am checking registration of Oguzhan Demir
+Artur Mantaluta          : My registration is approved
+Artur Mantaluta          : I'm joining the after-registration party
+Ali Hikmet Dogru         : CENG 786 - Robot Motion Planning and Control (MS)  ->  YES
+Onur Tolga Sehitoglu     : CENG 100 - Computer Engineering Orientation (MS)  ->  YES
+Ahmet Oguz Akyuz         : CENG 562 - Machine Learning (MS)  ->  YES
+Musa Karabulut           : I took CENG 223 - Discrete Computational Structures (PHD)
+Pinar Karagoz            : CENG 443 - Introduction to Object Oriented Programming Languages and Systems (BS)  ->  NO
+Doguscan Namal           : I need to register again
+Atilla Ozgit             : CENG 305 - Object-Oriented Programming with Java (BS)  ->  NO
+Emre Akin                : I need to register again
+Nihan Kesim Cicekli      : CENG 547 - Formal Specification Techniques (BS)  ->  YES
+Bunyamin Sarigul         : My registration is approved
+Bunyamin Sarigul         : I'm joining the after-registration party
+Cevat Sener              : CENG 301 - Algorithms And Data Structures (BS)  ->  NO
+Kadir Can Buldurucu      : I need to register again
+Ismail Sengor Altingovde : CENG 465 - Introduction to Bioinformatics (MS)  ->  YES
+Nazli Mehrazar           : I am about to get my registration checked by Ismail Sengor Altingovde
+Ismail Sengor Altingovde : I am checking registration of Nazli Mehrazar
+Arda Guney               : My registration is approved
+Arda Guney               : I'm joining the after-registration party
+Metin Aksit              : I took CENG 465 - Introduction to Bioinformatics (MS)
+Musa Karabulut           : I took CENG 315 - Algorithms (BS)
+Ahmet Cosar              : CENG 443 - Introduction to Object Oriented Programming Languages and Systems (BS)  ->  YES
+Ali Hikmet Dogru         : CENG 542 - Human Computer Interaction (MS)  ->  YES
+Mertcan Boz              : I took CENG 786 - Robot Motion Planning and Control (MS)
+Onur Tolga Sehitoglu     : CENG 568 - Knowledge Engineering (MS)  ->  YES
+Ahmet Oguz Akyuz         : CENG 382 - Analysis of Dynamic Systems with Feedback (MS)  ->  YES
+Abdullah Goktug Mert     : I got computer Inek-02
+Abdullah Goktug Mert     : I am registering for 3 courses
+Ali Haydar Karapinar     : I am in the laboratory looking for a free computer
+Volkan Atalay            : CENG 780 - Sparse Matrix Computations (BS)  ->  NO
+Oguzhan Demir            : I need to register again
+Metin Aksit              : I took CENG 100 - Computer Engineering Orientation (MS)
+Ismail Sengor Altingovde : CENG 540 - Programming Languages (BS)  ->  YES
+Ali Hikmet Dogru         : CENG 568 - Knowledge Engineering (MS)  ->  YES
+Sema Kose                : My registration is approved
+Sema Kose                : I'm joining the after-registration party
+Abdullah Goktug Mert     : I took CENG 352 - Database Management Systems (BS)
+Ahmet Oguz Akyuz         : CENG 583 - Computer Vision (MS)  ->  YES
+Mustafa Bugra Tamer      : My registration is approved
+Mustafa Bugra Tamer      : I'm joining the after-registration party
+Ahmet Cosar              : CENG 565 - Theory of Computation (MS)  ->  YES
+Onur Tolga Sehitoglu     : CENG 574 - Statistical Data Analysis (MS)  ->  YES
+Kaan Toker               : My registration is approved
+Kaan Toker               : I'm joining the after-registration party
+Ali Haydar Karapinar     : I got computer Inek-03
+Ali Haydar Karapinar     : I am registering for 3 courses
+Cemre Goc                : Someone just left the laboratory, I'll now check again for a free computer
+Mertcan Boz              : I took CENG 498 - Software Development with Scripting Languges (PHD)
+Metin Aksit              : I took CENG 400 - Summer Practice - II (PHD)
+Ismail Sengor Altingovde : CENG 789 - Digital Geometry Processing - Second Program (PHD)  ->  YES
+Cemre Goc                : I got computer Inek-04
+Cemre Goc                : I am registering for 3 courses
+Ekrem Demirhan           : Someone just left the laboratory, I'll now check again for a free computer
+Abdullah Goktug Mert     : I took CENG 315 - Algorithms (BS)
+Ahmet Cosar              : CENG 435 - Data Communications and Networking (BS)  ->  YES
+Sabri Safa Ozturk        : My registration is approved
+Sabri Safa Ozturk        : I'm joining the after-registration party
+Ali Haydar Karapinar     : I took CENG 300 - Summer Practice - I (MS)
+Mertcan Boz              : I took CENG 567 - Design and Analysis of Algorithms (MS)
+Ekrem Demirhan           : I got computer Inek-05
+Ekrem Demirhan           : I am registering for 3 courses
+Dicle Ayzit              : Someone just left the laboratory, I'll now check again for a free computer
+Ismail Sengor Altingovde : CENG 491 - Computer Engineering Design I (PHD)  ->  YES
+Nazli Mehrazar           : My registration is approved
+Nazli Mehrazar           : I'm joining the after-registration party
+Cemre Goc                : I took CENG 315 - Algorithms (BS)
+Abdullah Goktug Mert     : I took CENG 351 - Data Management And File Structures (BS)
+Ekrem Demirhan           : I took CENG 561 - Artificial Intelligence (MS)
+Ali Haydar Karapinar     : I took CENG 599 - Term Project (MS)
+Cemre Goc                : I took CENG 707 - Data Structures and Algorithms (MS)
+Dicle Ayzit              : I got computer Inek-06
+Burak Balci              : Someone just left the laboratory, I'll now check again for a free computer
+Dicle Ayzit              : I am registering for 3 courses
+Burak Balci              : I got computer Inek-07
+Burak Balci              : I am registering for 3 courses
+Cemil Kocaman            : Someone just left the laboratory, I'll now check again for a free computer
+Cemre Goc                : I took CENG 382 - Analysis of Dynamic Systems with Feedback (MS)
+Ali Haydar Karapinar     : I took CENG 351 - Data Management And File Structures (BS)
+Dicle Ayzit              : I took CENG 542 - Human Computer Interaction (MS)
+Ekrem Demirhan           : I took CENG 462 - Introduction to Artificial Intelligence (BS)
+Burak Balci              : I took CENG 466 - Fundamental Image Processing Techniques (MS)
+Dicle Ayzit              : I took CENG 536 - Advanced Unix (PHD)
+Cemil Kocaman            : I got computer Inek-08
+Baris Ozcelik            : Someone just left the laboratory, I'll now check again for a free computer
+Cemil Kocaman            : I am registering for 3 courses
+Burak Balci              : I took CENG 305 - Object-Oriented Programming with Java (BS)
+Ekrem Demirhan           : I took CENG 400 - Summer Practice - II (PHD)
+Dicle Ayzit              : I took CENG 300 - Summer Practice - I (MS)
+Burak Balci              : I took CENG 435 - Data Communications and Networking (BS)
+Cemil Kocaman            : I took CENG 100 - Computer Engineering Orientation (MS)
+Baris Ozcelik            : I got computer Inek-10
+Baris Ozcelik            : I am registering for 3 courses
+Burak Balci              : I am leaving computer Inek-07
+Burak Balci              : I am about to get my registration checked by Ali Hikmet Dogru
+Ali Hikmet Dogru         : I am checking registration of Burak Balci
+Dicle Ayzit              : I am leaving computer Inek-06
+Dicle Ayzit              : I am about to get my registration checked by Sinan Kalkan
+Sinan Kalkan             : I am checking registration of Dicle Ayzit
+Ekrem Demirhan           : I am leaving computer Inek-05
+Ekrem Demirhan           : I am about to get my registration checked by Halit Oguztuzun
+Halit Oguztuzun          : I am checking registration of Ekrem Demirhan
+Ali Haydar Karapinar     : I am leaving computer Inek-03
+Ali Haydar Karapinar     : I am about to get my registration checked by Ferda Nur Alpaslan
+Ferda Nur Alpaslan       : I am checking registration of Ali Haydar Karapinar
+Cemre Goc                : I am leaving computer Inek-04
+Cemre Goc                : I am about to get my registration checked by Veysi Isler
+Veysi Isler              : I am checking registration of Cemre Goc
+Abdullah Goktug Mert     : I am leaving computer Inek-02
+Abdullah Goktug Mert     : I am about to get my registration checked by Emre Akbas
+Emre Akbas               : I am checking registration of Abdullah Goktug Mert
+Mertcan Boz              : I am leaving computer Inek-01
+Mertcan Boz              : I am about to get my registration checked by Fatos Yarman-Vural
+Fatos Yarman-Vural       : I am checking registration of Mertcan Boz
+Metin Aksit              : I am leaving computer Inek-09
+Metin Aksit              : I am about to get my registration checked by Selim Temizer
+Selim Temizer            : I am checking registration of Metin Aksit
+Oguzhan Demir            : I am in the laboratory looking for a free computer
+Sinan Kalkan             : CENG 542 - Human Computer Interaction (MS)  ->  YES
+Cemil Kocaman            : I took CENG 111 - Introduction to Computer Engineering Concepts (PHD)
+Veysi Isler              : CENG 315 - Algorithms (BS)  ->  YES
+Ali Hikmet Dogru         : CENG 466 - Fundamental Image Processing Techniques (MS)  ->  YES
+Halit Oguztuzun          : CENG 561 - Artificial Intelligence (MS)  ->  YES
+Fatos Yarman-Vural       : CENG 786 - Robot Motion Planning and Control (MS)  ->  YES
+Ferda Nur Alpaslan       : CENG 300 - Summer Practice - I (MS)  ->  YES
+Baris Ozcelik            : I took CENG 300 - Summer Practice - I (MS)
+Oguzhan Demir            : I got computer Inek-01
+Oguzhan Demir            : I am registering for 3 courses
+Emre Akbas               : CENG 352 - Database Management Systems (BS)  ->  NO
+Abdullah Goktug Mert     : I need to register again
+Musa Karabulut           : I am leaving computer Inek-11
+Musa Karabulut           : I am about to get my registration checked by Emre Akbas
+Kadir Can Buldurucu      : I am in the laboratory looking for a free computer
+Emre Akbas               : I am checking registration of Musa Karabulut
+Selim Temizer            : CENG 465 - Introduction to Bioinformatics (MS)  ->  YES
+Sinan Kalkan             : CENG 536 - Advanced Unix (PHD)  ->  YES
+Ferda Nur Alpaslan       : CENG 599 - Term Project (MS)  ->  YES
+Halit Oguztuzun          : CENG 462 - Introduction to Artificial Intelligence (BS)  ->  NO
+Ekrem Demirhan           : I need to register again
+Fatos Yarman-Vural       : CENG 498 - Software Development with Scripting Languges (PHD)  ->  YES
+Ali Hikmet Dogru         : CENG 305 - Object-Oriented Programming with Java (BS)  ->  YES
+Cemil Kocaman            : I took CENG 451 - Information Systems Analysis and Design (BS)
+Veysi Isler              : CENG 707 - Data Structures and Algorithms (MS)  ->  YES
+Baris Ozcelik            : I took CENG 466 - Fundamental Image Processing Techniques (MS)
+Kadir Can Buldurucu      : I got computer Inek-02
+Kadir Can Buldurucu      : I am registering for 3 courses
+Emre Akin                : I am in the laboratory looking for a free computer
+Oguzhan Demir            : I took CENG 315 - Algorithms (BS)
+Emre Akbas               : CENG 536 - Advanced Unix (PHD)  ->  NO
+Musa Karabulut           : I need to register again
+Selim Temizer            : CENG 100 - Computer Engineering Orientation (MS)  ->  YES
+Ferda Nur Alpaslan       : CENG 351 - Data Management And File Structures (BS)  ->  YES
+Ali Haydar Karapinar     : My registration is approved
+Ali Haydar Karapinar     : I'm joining the after-registration party
+Sinan Kalkan             : CENG 300 - Summer Practice - I (MS)  ->  YES
+Dicle Ayzit              : My registration is approved
+Dicle Ayzit              : I'm joining the after-registration party
+Fatos Yarman-Vural       : CENG 567 - Design and Analysis of Algorithms (MS)  ->  YES
+Mertcan Boz              : My registration is approved
+Mertcan Boz              : I'm joining the after-registration party
+Veysi Isler              : CENG 382 - Analysis of Dynamic Systems with Feedback (MS)  ->  YES
+Cemre Goc                : My registration is approved
+Cemre Goc                : I'm joining the after-registration party
+Oguzhan Demir            : I took CENG 709 - Computer Architecture and Operating Systems (BS)
+Baris Ozcelik            : I took CENG 583 - Computer Vision (MS)
+Kadir Can Buldurucu      : I took CENG 351 - Data Management And File Structures (BS)
+Emre Akin                : I got computer Inek-03
+Emre Akin                : I am registering for 3 courses
+Doguscan Namal           : I am in the laboratory looking for a free computer
+Ali Hikmet Dogru         : CENG 435 - Data Communications and Networking (BS)  ->  YES
+Burak Balci              : My registration is approved
+Burak Balci              : I'm joining the after-registration party
+Selim Temizer            : CENG 400 - Summer Practice - II (PHD)  ->  YES
+Metin Aksit              : My registration is approved
+Metin Aksit              : I'm joining the after-registration party
+Bahadir Berkay Unsal     : I am in the laboratory looking for a free computer
+Doguscan Namal           : I got computer Inek-04
+Doguscan Namal           : I am registering for 3 courses
+Oguzhan Demir            : I took CENG 498 - Software Development with Scripting Languges (PHD)
+Emre Akin                : I took CENG 315 - Algorithms (BS)
+Kadir Can Buldurucu      : I took CENG 213 - Data Structures (MS)
+Doguscan Namal           : I took CENG 111 - Introduction to Computer Engineering Concepts (PHD)
+Kadir Can Buldurucu      : I took CENG 400 - Summer Practice - II (PHD)
+Bahadir Berkay Unsal     : I got computer Inek-05
+Bahadir Berkay Unsal     : I am registering for 3 courses
+Melih Burak Mert         : I am in the laboratory looking for a free computer
+Emre Akin                : I took CENG 491 - Computer Engineering Design I (PHD)
+Doguscan Namal           : I took CENG 351 - Data Management And File Structures (BS)
+Melih Burak Mert         : I got computer Inek-06
+Melih Burak Mert         : I am registering for 3 courses
+Kadir Can Buldurucu      : I am leaving computer Inek-02
+Oguzhan Demir            : I am leaving computer Inek-01
+Kadir Can Buldurucu      : I am about to get my registration checked by Cevat Sener
+Oguzhan Demir            : I am about to get my registration checked by Volkan Atalay
+Volkan Atalay            : I am checking registration of Oguzhan Demir
+Baris Ozcelik            : I am leaving computer Inek-10
+Baris Ozcelik            : I am about to get my registration checked by Ruken Cakici
+Cevat Sener              : I am checking registration of Kadir Can Buldurucu
+Ruken Cakici             : I am checking registration of Baris Ozcelik
+Musa Karabulut           : I am in the laboratory looking for a free computer
+Emre Akin                : I took CENG 435 - Data Communications and Networking (BS)
+Bahadir Berkay Unsal     : I took CENG 591 - Graduate Seminar (PHD)
+Musa Karabulut           : I got computer Inek-01
+Musa Karabulut           : I am registering for 3 courses
+Cemil Kocaman            : I am leaving computer Inek-08
+Cemil Kocaman            : I am about to get my registration checked by Seyda Ertekin
+Ekrem Demirhan           : I am in the laboratory looking for a free computer
+Seyda Ertekin            : I am checking registration of Cemil Kocaman
+Cevat Sener              : CENG 351 - Data Management And File Structures (BS)  ->  NO
+Kadir Can Buldurucu      : I need to register again
+Melih Burak Mert         : I took CENG 567 - Design and Analysis of Algorithms (MS)
+Doguscan Namal           : I took CENG 451 - Information Systems Analysis and Design (BS)
+Ruken Cakici             : CENG 300 - Summer Practice - I (MS)  ->  YES
+Volkan Atalay            : CENG 315 - Algorithms (BS)  ->  NO
+Oguzhan Demir            : I need to register again
+Bahadir Berkay Unsal     : I took CENG 466 - Fundamental Image Processing Techniques (MS)
+Melih Burak Mert         : I took CENG 562 - Machine Learning (MS)
+Ekrem Demirhan           : I got computer Inek-02
+Ekrem Demirhan           : I am registering for 3 courses
+Abdullah Goktug Mert     : I am in the laboratory looking for a free computer
+Musa Karabulut           : I took CENG 213 - Data Structures (MS)
+Seyda Ertekin            : CENG 100 - Computer Engineering Orientation (MS)  ->  YES
+Ruken Cakici             : CENG 466 - Fundamental Image Processing Techniques (MS)  ->  YES
+Bahadir Berkay Unsal     : I took CENG 709 - Computer Architecture and Operating Systems (BS)
+Ekrem Demirhan           : I took CENG 789 - Digital Geometry Processing (PHD)
+Musa Karabulut           : I took CENG 305 - Object-Oriented Programming with Java (BS)
+Abdullah Goktug Mert     : I got computer Inek-07
+Abdullah Goktug Mert     : I am registering for 3 courses
+Bahadir Berkay Unsal     : I am leaving computer Inek-05
+Bahadir Berkay Unsal     : I am about to get my registration checked by Tolga Can
+Oguzhan Demir            : I am in the laboratory looking for a free computer
+Tolga Can                : I am checking registration of Bahadir Berkay Unsal
+Melih Burak Mert         : I took CENG 786 - Robot Motion Planning and Control (MS)
+Seyda Ertekin            : CENG 111 - Introduction to Computer Engineering Concepts (PHD)  ->  YES
+Ekrem Demirhan           : I took CENG 462 - Introduction to Artificial Intelligence (BS)
+Ruken Cakici             : CENG 583 - Computer Vision (MS)  ->  YES
+Baris Ozcelik            : My registration is approved
+Baris Ozcelik            : I'm joining the after-registration party
+Oguzhan Demir            : I got computer Inek-05
+Oguzhan Demir            : I am registering for 3 courses
+Doguscan Namal           : I am leaving computer Inek-04
+Doguscan Namal           : I am about to get my registration checked by Pinar Karagoz
+Pinar Karagoz            : I am checking registration of Doguscan Namal
+Kadir Can Buldurucu      : I am in the laboratory looking for a free computer
+Musa Karabulut           : I took CENG 462 - Introduction to Artificial Intelligence (BS)
+Tolga Can                : CENG 591 - Graduate Seminar (PHD)  ->  NO
+Bahadir Berkay Unsal     : I need to register again
+Abdullah Goktug Mert     : I took CENG 351 - Data Management And File Structures (BS)
+Seyda Ertekin            : CENG 451 - Information Systems Analysis and Design (BS)  ->  YES
+Cemil Kocaman            : My registration is approved
+Cemil Kocaman            : I'm joining the after-registration party
+Ekrem Demirhan           : I took CENG 583 - Computer Vision (MS)
+Pinar Karagoz            : CENG 111 - Introduction to Computer Engineering Concepts (PHD)  ->  YES
+Oguzhan Demir            : I took CENG 351 - Data Management And File Structures (BS)
+Emre Akin                : I am leaving computer Inek-03
+Kadir Can Buldurucu      : I got computer Inek-04
+Kadir Can Buldurucu      : I am registering for 3 courses
+Ekrem Demirhan           : I am leaving computer Inek-02
+Emre Akin                : I am about to get my registration checked by Atilla Ozgit
+Atilla Ozgit             : I am checking registration of Emre Akin
+Bahadir Berkay Unsal     : I am in the laboratory looking for a free computer
+Ekrem Demirhan           : I am about to get my registration checked by Halit Oguztuzun
+Halit Oguztuzun          : I am checking registration of Ekrem Demirhan
+Abdullah Goktug Mert     : I took CENG 382 - Analysis of Dynamic Systems with Feedback (MS)
+Bahadir Berkay Unsal     : I got computer Inek-02
+Bahadir Berkay Unsal     : I am registering for 3 courses
+Musa Karabulut           : I am leaving computer Inek-01
+Musa Karabulut           : I am about to get my registration checked by Emre Akbas
+Melih Burak Mert         : I am leaving computer Inek-06
+Emre Akbas               : I am checking registration of Musa Karabulut
+Melih Burak Mert         : I am about to get my registration checked by Gokturk Ucoluk
+Gokturk Ucoluk           : I am checking registration of Melih Burak Mert
+Oguzhan Demir            : I took CENG 701 - Virtual Reality (PHD)
+Atilla Ozgit             : CENG 315 - Algorithms (BS)  ->  NO
+Emre Akin                : I need to register again
+Emre Akin                : I am in the laboratory looking for a free computer
+Halit Oguztuzun          : CENG 789 - Digital Geometry Processing (PHD)  ->  YES
+Kadir Can Buldurucu      : I took CENG 536 - Advanced Unix (PHD)
+Pinar Karagoz            : CENG 351 - Data Management And File Structures (BS)  ->  NO
+Doguscan Namal           : I need to register again
+Abdullah Goktug Mert     : I took CENG 566 - Image Processing (BS)
+Emre Akbas               : CENG 213 - Data Structures (MS)  ->  YES
+Bahadir Berkay Unsal     : I took CENG 111 - Introduction to Computer Engineering Concepts (PHD)
+Abdullah Goktug Mert     : I am leaving computer Inek-07
+Gokturk Ucoluk           : CENG 567 - Design and Analysis of Algorithms (MS)  ->  YES
+Emre Akin                : I got computer Inek-01
+Emre Akin                : I am registering for 3 courses
+Doguscan Namal           : I am in the laboratory looking for a free computer
+Oguzhan Demir            : I took CENG 530 - Computer Networks and Communications (BS)
+Kadir Can Buldurucu      : I took CENG 551 - System Development with Abstract Design (BS)
+Halit Oguztuzun          : CENG 462 - Introduction to Artificial Intelligence (BS)  ->  NO
+Ekrem Demirhan           : I need to register again
+Bahadir Berkay Unsal     : I took CENG 532 - Distributed Computing Systems (MS)
+Emre Akin                : I took CENG 583 - Computer Vision (MS)
+Emre Akbas               : CENG 305 - Object-Oriented Programming with Java (BS)  ->  YES
+Doguscan Namal           : I got computer Inek-03
+Doguscan Namal           : I am registering for 3 courses
+Ekrem Demirhan           : I am in the laboratory looking for a free computer
+Gokturk Ucoluk           : CENG 562 - Machine Learning (MS)  ->  YES
+Kadir Can Buldurucu      : I took CENG 701 - Virtual Reality (PHD)
+Bahadir Berkay Unsal     : I took CENG 315 - Algorithms (BS)
+Emre Akin                : I took CENG 784 - Statistical Methods in Natural Language Processing (MS)
+Oguzhan Demir            : I am leaving computer Inek-05
+Oguzhan Demir            : I am about to get my registration checked by Volkan Atalay
+Volkan Atalay            : I am checking registration of Oguzhan Demir
+Bahadir Berkay Unsal     : I am leaving computer Inek-02
+Bahadir Berkay Unsal     : I am about to get my registration checked by Tolga Can
+Tolga Can                : I am checking registration of Bahadir Berkay Unsal
+Kadir Can Buldurucu      : I am leaving computer Inek-04
+Kadir Can Buldurucu      : I am about to get my registration checked by Cevat Sener
+Cevat Sener              : I am checking registration of Kadir Can Buldurucu
+Ekrem Demirhan           : I got computer Inek-06
+Ekrem Demirhan           : I am registering for 3 courses
+Doguscan Namal           : I took CENG 424 - Logic for Computer Sciences (BS)
+Emre Akbas               : CENG 462 - Introduction to Artificial Intelligence (BS)  ->  YES
+Musa Karabulut           : My registration is approved
+Musa Karabulut           : I'm joining the after-registration party
+Abdullah Goktug Mert     : I am about to get my registration checked by Emre Akbas
+Emre Akbas               : I am checking registration of Abdullah Goktug Mert
+Gokturk Ucoluk           : CENG 786 - Robot Motion Planning and Control (MS)  ->  YES
+Melih Burak Mert         : My registration is approved
+Melih Burak Mert         : I'm joining the after-registration party
+Cevat Sener              : CENG 536 - Advanced Unix (PHD)  ->  YES
+Volkan Atalay            : CENG 351 - Data Management And File Structures (BS)  ->  NO
+Oguzhan Demir            : I need to register again
+Oguzhan Demir            : I am in the laboratory looking for a free computer
+Emre Akin                : I took CENG 111 - Introduction to Computer Engineering Concepts (PHD)
+Ekrem Demirhan           : I took CENG 789 - Digital Geometry Processing (PHD)
+Emre Akbas               : CENG 351 - Data Management And File Structures (BS)  ->  NO
+Abdullah Goktug Mert     : I need to register again
+Doguscan Namal           : I took CENG 542 - Human Computer Interaction (MS)
+Tolga Can                : CENG 111 - Introduction to Computer Engineering Concepts (PHD)  ->  NO
+Bahadir Berkay Unsal     : I need to register again
+Oguzhan Demir            : I got computer Inek-02
+Oguzhan Demir            : I am registering for 3 courses
+Bahadir Berkay Unsal     : I am in the laboratory looking for a free computer
+Doguscan Namal           : I took CENG 780 - Sparse Matrix Computations (BS)
+Cevat Sener              : CENG 551 - System Development with Abstract Design (BS)  ->  NO
+Kadir Can Buldurucu      : I need to register again
+Ekrem Demirhan           : I took CENG 707 - Data Structures and Algorithms (MS)
+Oguzhan Demir            : I took CENG 583 - Computer Vision (MS)
+Bahadir Berkay Unsal     : I got computer Inek-04
+Bahadir Berkay Unsal     : I am registering for 3 courses
+Abdullah Goktug Mert     : I am in the laboratory looking for a free computer
+Ekrem Demirhan           : I took CENG 491 - Computer Engineering Design I (PHD)
+Oguzhan Demir            : I took CENG 223 - Discrete Computational Structures (PHD)
+Abdullah Goktug Mert     : I got computer Inek-05
+Abdullah Goktug Mert     : I am registering for 3 courses
+Emre Akin                : I am leaving computer Inek-01
+Emre Akin                : I am about to get my registration checked by Atilla Ozgit
+Ekrem Demirhan           : I am leaving computer Inek-06
+Ekrem Demirhan           : I am about to get my registration checked by Halit Oguztuzun
+Halit Oguztuzun          : I am checking registration of Ekrem Demirhan
+Atilla Ozgit             : I am checking registration of Emre Akin
+Kadir Can Buldurucu      : I am in the laboratory looking for a free computer
+Bahadir Berkay Unsal     : I took CENG 583 - Computer Vision (MS)
+Kadir Can Buldurucu      : I got computer Inek-01
+Kadir Can Buldurucu      : I am registering for 3 courses
+Doguscan Namal           : I am leaving computer Inek-03
+Doguscan Namal           : I am about to get my registration checked by Pinar Karagoz
+Pinar Karagoz            : I am checking registration of Doguscan Namal
+Atilla Ozgit             : CENG 583 - Computer Vision (MS)  ->  YES
+Oguzhan Demir            : I took CENG 305 - Object-Oriented Programming with Java (BS)
+Oguzhan Demir            : I am leaving computer Inek-02
+Oguzhan Demir            : I am about to get my registration checked by Volkan Atalay
+Volkan Atalay            : I am checking registration of Oguzhan Demir
+Halit Oguztuzun          : CENG 789 - Digital Geometry Processing (PHD)  ->  YES
+Abdullah Goktug Mert     : I took CENG 352 - Database Management Systems (BS)
+Bahadir Berkay Unsal     : I took CENG 567 - Design and Analysis of Algorithms (MS)
+Atilla Ozgit             : CENG 784 - Statistical Methods in Natural Language Processing (MS)  ->  YES
+Volkan Atalay            : CENG 583 - Computer Vision (MS)  ->  YES
+Pinar Karagoz            : CENG 424 - Logic for Computer Sciences (BS)  ->  NO
+Doguscan Namal           : I need to register again
+Doguscan Namal           : I am in the laboratory looking for a free computer
+Halit Oguztuzun          : CENG 707 - Data Structures and Algorithms (MS)  ->  YES
+Kadir Can Buldurucu      : I took CENG 111 - Introduction to Computer Engineering Concepts (PHD)
+Atilla Ozgit             : CENG 111 - Introduction to Computer Engineering Concepts (PHD)  ->  YES
+Emre Akin                : My registration is approved
+Emre Akin                : I'm joining the after-registration party
+Abdullah Goktug Mert     : I took CENG 561 - Artificial Intelligence (MS)
+Bahadir Berkay Unsal     : I took CENG 562 - Machine Learning (MS)
+Volkan Atalay            : CENG 223 - Discrete Computational Structures (PHD)  ->  YES
+Kadir Can Buldurucu      : I took CENG 562 - Machine Learning (MS)
+Halit Oguztuzun          : CENG 491 - Computer Engineering Design I (PHD)  ->  YES
+Ekrem Demirhan           : My registration is approved
+Ekrem Demirhan           : I'm joining the after-registration party
+Doguscan Namal           : I got computer Inek-02
+Doguscan Namal           : I am registering for 3 courses
+Bahadir Berkay Unsal     : I am leaving computer Inek-04
+Bahadir Berkay Unsal     : I am about to get my registration checked by Tolga Can
+Tolga Can                : I am checking registration of Bahadir Berkay Unsal
+Volkan Atalay            : CENG 305 - Object-Oriented Programming with Java (BS)  ->  NO
+Oguzhan Demir            : I need to register again
+Oguzhan Demir            : I am in the laboratory looking for a free computer
+Abdullah Goktug Mert     : I took CENG 315 - Algorithms (BS)
+Kadir Can Buldurucu      : I took CENG 352 - Database Management Systems (BS)
+Doguscan Namal           : I took CENG 780 - Sparse Matrix Computations (BS)
+Tolga Can                : CENG 583 - Computer Vision (MS)  ->  YES
+Oguzhan Demir            : I got computer Inek-03
+Oguzhan Demir            : I am registering for 3 courses
+Kadir Can Buldurucu      : I am leaving computer Inek-01
+Kadir Can Buldurucu      : I am about to get my registration checked by Cevat Sener
+Cevat Sener              : I am checking registration of Kadir Can Buldurucu
+Abdullah Goktug Mert     : I am leaving computer Inek-05
+Abdullah Goktug Mert     : I am about to get my registration checked by Emre Akbas
+Emre Akbas               : I am checking registration of Abdullah Goktug Mert
+Doguscan Namal           : I took CENG 302 - Introduction to Database Management Systems (BS)
+Oguzhan Demir            : I took CENG 574 - Statistical Data Analysis (MS)
+Tolga Can                : CENG 567 - Design and Analysis of Algorithms (MS)  ->  YES
+Emre Akbas               : CENG 352 - Database Management Systems (BS)  ->  NO
+Abdullah Goktug Mert     : I need to register again
+Abdullah Goktug Mert     : I am in the laboratory looking for a free computer
+Cevat Sener              : CENG 111 - Introduction to Computer Engineering Concepts (PHD)  ->  YES
+Oguzhan Demir            : I took CENG 591 - Graduate Seminar (PHD)
+Doguscan Namal           : I took CENG 300 - Summer Practice - I (MS)
+Tolga Can                : CENG 562 - Machine Learning (MS)  ->  YES
+Bahadir Berkay Unsal     : My registration is approved
+Bahadir Berkay Unsal     : I'm joining the after-registration party
+Abdullah Goktug Mert     : I got computer Inek-01
+Abdullah Goktug Mert     : I am registering for 3 courses
+Doguscan Namal           : I am leaving computer Inek-02
+Doguscan Namal           : I am about to get my registration checked by Pinar Karagoz
+Pinar Karagoz            : I am checking registration of Doguscan Namal
+Oguzhan Demir            : I took CENG 701 - Virtual Reality (PHD)
+Oguzhan Demir            : I am leaving computer Inek-03
+Oguzhan Demir            : I am about to get my registration checked by Volkan Atalay
+Volkan Atalay            : I am checking registration of Oguzhan Demir
+Cevat Sener              : CENG 562 - Machine Learning (MS)  ->  YES
+Pinar Karagoz            : CENG 780 - Sparse Matrix Computations (BS)  ->  NO
+Doguscan Namal           : I need to register again
+Doguscan Namal           : I am in the laboratory looking for a free computer
+Cevat Sener              : CENG 352 - Database Management Systems (BS)  ->  NO
+Kadir Can Buldurucu      : I need to register again
+Abdullah Goktug Mert     : I took CENG 566 - Image Processing (BS)
+Volkan Atalay            : CENG 574 - Statistical Data Analysis (MS)  ->  YES
+Kadir Can Buldurucu      : I am in the laboratory looking for a free computer
+Doguscan Namal           : I got computer Inek-02
+Doguscan Namal           : I am registering for 3 courses
+Volkan Atalay            : CENG 591 - Graduate Seminar (PHD)  ->  YES
+Abdullah Goktug Mert     : I took CENG 547 - Formal Specification Techniques (BS)
+Doguscan Namal           : I took CENG 200 - Introduction to Computers And Fortran Programming (MS)
+Kadir Can Buldurucu      : I got computer Inek-03
+Kadir Can Buldurucu      : I am registering for 3 courses
+Volkan Atalay            : CENG 701 - Virtual Reality (PHD)  ->  YES
+Oguzhan Demir            : My registration is approved
+Oguzhan Demir            : I'm joining the after-registration party
+Abdullah Goktug Mert     : I took CENG 568 - Knowledge Engineering (MS)
+Abdullah Goktug Mert     : I am leaving computer Inek-01
+Abdullah Goktug Mert     : I am about to get my registration checked by Emre Akbas
+Emre Akbas               : I am checking registration of Abdullah Goktug Mert
+Kadir Can Buldurucu      : I took CENG 550 - Software Engineering (MS)
+Doguscan Namal           : I took CENG 562 - Machine Learning (MS)
+Emre Akbas               : CENG 566 - Image Processing (BS)  ->  NO
+Abdullah Goktug Mert     : I need to register again
+Abdullah Goktug Mert     : I am in the laboratory looking for a free computer
+Kadir Can Buldurucu      : I took CENG 477 - Introduction to Computer Graphics (MS)
+Abdullah Goktug Mert     : I got computer Inek-01
+Abdullah Goktug Mert     : I am registering for 3 courses
+Doguscan Namal           : I took CENG 530 - Computer Networks and Communications (BS)
+Doguscan Namal           : I am leaving computer Inek-02
+Doguscan Namal           : I am about to get my registration checked by Pinar Karagoz
+Pinar Karagoz            : I am checking registration of Doguscan Namal
+Abdullah Goktug Mert     : I took CENG 382 - Analysis of Dynamic Systems with Feedback (MS)
+Kadir Can Buldurucu      : I took CENG 424 - Logic for Computer Sciences (BS)
+Kadir Can Buldurucu      : I am leaving computer Inek-03
+Kadir Can Buldurucu      : I am about to get my registration checked by Cevat Sener
+Cevat Sener              : I am checking registration of Kadir Can Buldurucu
+Pinar Karagoz            : CENG 200 - Introduction to Computers And Fortran Programming (MS)  ->  YES
+Cevat Sener              : CENG 550 - Software Engineering (MS)  ->  YES
+Abdullah Goktug Mert     : I took CENG 530 - Computer Networks and Communications (BS)
+Pinar Karagoz            : CENG 562 - Machine Learning (MS)  ->  YES
+Cevat Sener              : CENG 477 - Introduction to Computer Graphics (MS)  ->  YES
+Abdullah Goktug Mert     : I took CENG 499 - Special Topics: Introduction to Machine Learning (MS)
+Abdullah Goktug Mert     : I am leaving computer Inek-01
+Abdullah Goktug Mert     : I am about to get my registration checked by Emre Akbas
+Emre Akbas               : I am checking registration of Abdullah Goktug Mert
+Pinar Karagoz            : CENG 530 - Computer Networks and Communications (BS)  ->  NO
+Doguscan Namal           : I need to register again
+Doguscan Namal           : I am in the laboratory looking for a free computer
+Cevat Sener              : CENG 424 - Logic for Computer Sciences (BS)  ->  NO
+Kadir Can Buldurucu      : I need to register again
+Emre Akbas               : CENG 382 - Analysis of Dynamic Systems with Feedback (MS)  ->  YES
+Doguscan Namal           : I got computer Inek-01
+Doguscan Namal           : I am registering for 3 courses
+Kadir Can Buldurucu      : I am in the laboratory looking for a free computer
+Emre Akbas               : CENG 530 - Computer Networks and Communications (BS)  ->  NO
+Abdullah Goktug Mert     : I need to register again
+Kadir Can Buldurucu      : I got computer Inek-02
+Kadir Can Buldurucu      : I am registering for 3 courses
+Abdullah Goktug Mert     : I am in the laboratory looking for a free computer
+Doguscan Namal           : I took CENG 532 - Distributed Computing Systems (MS)
+Kadir Can Buldurucu      : I took CENG 551 - System Development with Abstract Design (BS)
+Abdullah Goktug Mert     : I got computer Inek-03
+Abdullah Goktug Mert     : I am registering for 3 courses
+Doguscan Namal           : I took CENG 785 - Algorithmic Trading and Quantitative Strategies (BS)
+Kadir Can Buldurucu      : I took CENG 566 - Image Processing (BS)
+Abdullah Goktug Mert     : I took CENG 465 - Introduction to Bioinformatics (MS)
+Doguscan Namal           : I took CENG 331 - Computer Organization (MS)
+Doguscan Namal           : I am leaving computer Inek-01
+Doguscan Namal           : I am about to get my registration checked by Pinar Karagoz
+Pinar Karagoz            : I am checking registration of Doguscan Namal
+Abdullah Goktug Mert     : I took CENG 301 - Algorithms And Data Structures (BS)
+Kadir Can Buldurucu      : I took CENG 443 - Introduction to Object Oriented Programming Languages and Systems (BS)
+Kadir Can Buldurucu      : I am leaving computer Inek-02
+Kadir Can Buldurucu      : I am about to get my registration checked by Cevat Sener
+Cevat Sener              : I am checking registration of Kadir Can Buldurucu
+Pinar Karagoz            : CENG 532 - Distributed Computing Systems (MS)  ->  YES
+Abdullah Goktug Mert     : I took CENG 536 - Advanced Unix (PHD)
+Abdullah Goktug Mert     : I am leaving computer Inek-03
+Abdullah Goktug Mert     : I am about to get my registration checked by Emre Akbas
+Emre Akbas               : I am checking registration of Abdullah Goktug Mert
+Cevat Sener              : CENG 551 - System Development with Abstract Design (BS)  ->  NO
+Kadir Can Buldurucu      : I need to register again
+Kadir Can Buldurucu      : I am in the laboratory looking for a free computer
+Pinar Karagoz            : CENG 785 - Algorithmic Trading and Quantitative Strategies (BS)  ->  NO
+Doguscan Namal           : I need to register again
+Emre Akbas               : CENG 465 - Introduction to Bioinformatics (MS)  ->  YES
+Kadir Can Buldurucu      : I got computer Inek-01
+Kadir Can Buldurucu      : I am registering for 3 courses
+Doguscan Namal           : I am in the laboratory looking for a free computer
+Kadir Can Buldurucu      : I took CENG 789 - Digital Geometry Processing (PHD)
+Emre Akbas               : CENG 301 - Algorithms And Data Structures (BS)  ->  NO
+Abdullah Goktug Mert     : I need to register again
+Doguscan Namal           : I got computer Inek-02
+Doguscan Namal           : I am registering for 3 courses
+Abdullah Goktug Mert     : I am in the laboratory looking for a free computer
+Kadir Can Buldurucu      : I took CENG 784 - Statistical Methods in Natural Language Processing (MS)
+Abdullah Goktug Mert     : I got computer Inek-03
+Abdullah Goktug Mert     : I am registering for 3 courses
+Doguscan Namal           : I took CENG 466 - Fundamental Image Processing Techniques (MS)
+Kadir Can Buldurucu      : I took CENG 567 - Design and Analysis of Algorithms (MS)
+Kadir Can Buldurucu      : I am leaving computer Inek-01
+Kadir Can Buldurucu      : I am about to get my registration checked by Cevat Sener
+Cevat Sener              : I am checking registration of Kadir Can Buldurucu
+Abdullah Goktug Mert     : I took CENG 562 - Machine Learning (MS)
+Cevat Sener              : CENG 789 - Digital Geometry Processing (PHD)  ->  YES
+Doguscan Namal           : I took CENG 498 - Software Development with Scripting Languges (PHD)
+Abdullah Goktug Mert     : I took CENG 784 - Statistical Methods in Natural Language Processing (MS)
+Doguscan Namal           : I took CENG 542 - Human Computer Interaction (MS)
+Doguscan Namal           : I am leaving computer Inek-02
+Doguscan Namal           : I am about to get my registration checked by Pinar Karagoz
+Pinar Karagoz            : I am checking registration of Doguscan Namal
+Cevat Sener              : CENG 784 - Statistical Methods in Natural Language Processing (MS)  ->  YES
+Pinar Karagoz            : CENG 466 - Fundamental Image Processing Techniques (MS)  ->  YES
+Abdullah Goktug Mert     : I took CENG 561 - Artificial Intelligence (MS)
+Abdullah Goktug Mert     : I am leaving computer Inek-03
+Abdullah Goktug Mert     : I am about to get my registration checked by Emre Akbas
+Emre Akbas               : I am checking registration of Abdullah Goktug Mert
+Cevat Sener              : CENG 567 - Design and Analysis of Algorithms (MS)  ->  YES
+Kadir Can Buldurucu      : My registration is approved
+Kadir Can Buldurucu      : I'm joining the after-registration party
+Pinar Karagoz            : CENG 498 - Software Development with Scripting Languges (PHD)  ->  YES
+Emre Akbas               : CENG 562 - Machine Learning (MS)  ->  YES
+Pinar Karagoz            : CENG 542 - Human Computer Interaction (MS)  ->  YES
+Doguscan Namal           : My registration is approved
+Doguscan Namal           : I'm joining the after-registration party
+Emre Akbas               : CENG 784 - Statistical Methods in Natural Language Processing (MS)  ->  YES
+Emre Akbas               : CENG 561 - Artificial Intelligence (MS)  ->  YES
+Abdullah Goktug Mert     : My registration is approved
+Abdullah Goktug Mert     : I'm joining the after-registration party
+Kadir Can Buldurucu      : Nice party
+Bahadir Berkay Unsal     : What's up?
+Ekrem Demirhan           : What's up?
+Oguzhan Demir            : Nice weather
+Emre Akin                : Nice weather
+Doguscan Namal           : Hello
+Baris Ozcelik            : Hi
+Mertcan Boz              : Nice weather
+Nazli Mehrazar           : What's up?
+Mustafa Bugra Tamer      : What's up?
+Cemre Goc                : Nice weather
+Baler Ilhan              : Good day
+Mehmet Emin Kucuk        : What's up?
+Mesut Yilmaz             : Hello
+Abdullah Goktug Mert     : Good day
+Zeynep Havva Dinc        : Nice party
+Samet Aytac              : Hi
+Zeynep Sengil            : What's up?
+Serhan Yilmaz            : Hi
+Oyku Ozlem Cakal         : How are you?
+Sercan Hocaoglu          : Hi
+Burak Balci              : Good day
+Metin Aksit              : How are you?
+Cemil Kocaman            : Good day
+Musa Karabulut           : Hi
+Melih Burak Mert         : Good day
+Utku Caglayan            : Hello
+Ali Abbasi               : Good day
+Sevim Begum Sozer        : What's up?
+Yunus Olgun              : Hello
+Suleyman Arikan          : What's up?
+Saygin Sarioglu          : Nice weather
+Ugur Yanikoglu           : Nice party
+Yagiz Arkayin            : How are you?
+Ozgur Baskin             : Good day
+Zeliha Yilmaz            : Good day
+Mehmet Mustafa Nacar     : Hi
+Emre Can Kucukoglu       : Hi
+Turan Soyuer             : What's up?
+Ismail Sarp Dikkaya      : What's up?
+Emre Yigit Alparslan     : Nice weather
+Fatih Burak Belce        : Hello
+Emel Varol               : What's up?
+Efe Erdil                : Hello
+Mustafa Senol Cosar      : What's up?
+Abdulkadir Dalga         : Nice party
+Azat Dzhanybekov         : Nice weather
+Artur Mantaluta          : Hello
+Bunyamin Sarigul         : What's up?
+Arda Guney               : What's up?
+Sema Kose                : Nice party
+Kaan Toker               : Hi
+Sabri Safa Ozturk        : Good day
+Ali Haydar Karapinar     : How are you?
+Dicle Ayzit              : What's up?
